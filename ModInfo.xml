@@ -1,0 +1,3 @@
+<mod displayName="0KepOnline's Skinning Objects Pack" unique="0KepOnlineObjectsPack" description="This mod adds a lot of objects to the Adventure Editor. You can use them on gameplay objects in disguise mode. All the adventures made with it are share-safe. This mod needs Universal Property Enhancer installed." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">!!!UPE_0KepOnlineObjectsPack.package</prerequisite>
+</mod>

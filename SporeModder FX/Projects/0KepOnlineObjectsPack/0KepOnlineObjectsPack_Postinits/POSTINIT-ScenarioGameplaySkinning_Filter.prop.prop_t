@@ -6,7 +6,7 @@ keys browserFilterChildrenFilters
 	Vehicles
 	FixedObjects
 
-	GameplayObjects~
+	FixedObjectGameplay
 
 	0KepOnlineObjectsPack_Creature_Parts_Sence
 	0KepOnlineObjectsPack_Creature_Parts_Graspers
