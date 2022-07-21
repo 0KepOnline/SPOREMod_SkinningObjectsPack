@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Editor_Backgrounds.png
+texts sporepediaName
+	"CSA_hoolahoop"
+end
+bool sporepediaShow true

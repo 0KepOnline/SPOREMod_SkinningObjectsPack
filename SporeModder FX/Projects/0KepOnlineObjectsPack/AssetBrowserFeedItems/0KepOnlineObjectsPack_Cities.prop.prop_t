@@ -1,0 +1,6 @@
+key parent AssetBrowserFeedItems!keylist_Template.prop
+uint32 feedListItemGroupID 0x40828100 # citystyles_models~
+key feedListItemIconKey ci_space_citywalls_large_xl_01_decal.rw4
+texts feedListItemName
+	(0KepOnlineObjectsPack!0x00000003) "Cities [BUGGED]"
+end

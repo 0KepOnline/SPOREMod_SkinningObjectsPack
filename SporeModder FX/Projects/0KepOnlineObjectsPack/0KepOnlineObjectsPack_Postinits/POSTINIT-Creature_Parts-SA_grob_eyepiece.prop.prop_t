@@ -1,0 +1,6 @@
+key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_GroB
+key sporepediaBackdropImage graphics_misc_2~!0xB865A25E.png
+texts sporepediaName
+	(TribalAccessoriesRigblocks!0x68480e7f) "GroB"
+end
+bool sporepediaShow true

@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Colony_Turret.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Cities!0x00000003) "Broken Colony Turret"
+end
+bool sporepediaShow true

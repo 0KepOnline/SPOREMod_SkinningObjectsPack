@@ -1,0 +1,6 @@
+key parent AssetBrowserFeedItems!keylist_Template.prop
+uint32 feedListItemGroupID hash(placeholder)
+key feedListItemIconKey PlannerThumbnails!genericfish_03.png
+texts feedListItemName
+	(0KepOnlineObjectsPack!0x00000007) "Placeholders"
+end

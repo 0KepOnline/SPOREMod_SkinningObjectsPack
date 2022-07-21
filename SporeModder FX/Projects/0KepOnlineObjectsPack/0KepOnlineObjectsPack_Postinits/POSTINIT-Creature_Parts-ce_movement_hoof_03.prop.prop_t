@@ -1,0 +1,6 @@
+key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_Feet
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureAnimal.pngs
+texts sporepediaName
+	(CreatureRigblocks!0xc5d43f62) "Foot"
+end
+bool sporepediaShow true

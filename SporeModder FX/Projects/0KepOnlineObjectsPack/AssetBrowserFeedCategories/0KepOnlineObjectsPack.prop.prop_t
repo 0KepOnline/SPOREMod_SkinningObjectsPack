@@ -1,0 +1,8 @@
+key parent AssetBrowserFeedCategories!Template.prop
+texts feedListCategoryName
+	(0KepOnlineObjectsPack!0x00000000) "0KepOnlineObjectsPack"
+end
+keys feedListItems
+	0KepOnlineObjectsPack_Error
+	tmp
+end

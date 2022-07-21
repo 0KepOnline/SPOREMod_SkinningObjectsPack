@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Editor_Backgrounds.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Editor_Rigblocks!0x00000016) "Vehicle Editor Background"
+end
+bool sporepediaShow true

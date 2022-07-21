@@ -1,0 +1,2 @@
+float interactableObjectMaxScale 1000
+float interactableObjectMinScale 0

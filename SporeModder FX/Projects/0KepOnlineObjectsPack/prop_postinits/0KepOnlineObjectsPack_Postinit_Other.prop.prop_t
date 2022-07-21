@@ -1,0 +1,276 @@
+string8s postinitList
+	"PedestalShaman POSTINIT-Other-PedestalShaman"
+	"PedestalKnight POSTINIT-Other-PedestalKnight"
+	"PedestalTrader POSTINIT-Other-PedestalTrader"
+	"PedestalScientist POSTINIT-Other-PedestalScientist"
+	"PedestalEconomic POSTINIT-Other-PedestalEconomic"
+	"PedestalMilitary POSTINIT-Other-PedestalMilitary"
+	"PedestalZealot POSTINIT-Other-PedestalZealot"
+	"cr_egg_01_base POSTINIT-Other-cr_egg_01_base"
+	"cr_egg_02_base POSTINIT-Other-cr_egg_02_base"
+	"cr_egg_04_base POSTINIT-Other-cr_egg_04_base"
+	"cr_egg_06_base POSTINIT-Other-cr_egg_06_base"
+	"cr_egg_07_base POSTINIT-Other-cr_egg_07_base"
+	"cr_egg_08_base POSTINIT-Other-cr_egg_08_base"
+	"cr_egg_10_base POSTINIT-Other-cr_egg_10_base"
+	#<"cr_egg_01_hatched POSTINIT-Other-cr_egg_01_hatched"
+	"cr_egg_02_hatched POSTINIT-Other-cr_egg_02_hatched"
+	"cr_egg_03_hatched POSTINIT-Other-cr_egg_03_hatched"
+	"cr_egg_04_hatched POSTINIT-Other-cr_egg_04_hatched"
+	"cr_egg_05_hatched POSTINIT-Other-cr_egg_05_hatched"
+	"cr_egg_06_hatched POSTINIT-Other-cr_egg_06_hatched"
+	"cr_egg_07_hatched POSTINIT-Other-cr_egg_07_hatched"
+	"cr_egg_08_hatched POSTINIT-Other-cr_egg_08_hatched"
+	"cr_egg_09_hatched POSTINIT-Other-cr_egg_09_hatched"
+	"cr_egg_10_hatched POSTINIT-Other-cr_egg_10_hatched"#>
+	"CRG_Fruit_Poison POSTINIT-Other-CRG_Fruit_Poison"
+	"Fruit_Normal_01 POSTINIT-Other-Fruit_Normal_01"
+	"Fruit_Rotten_01 POSTINIT-Other-Fruit_Rotten_01"
+	"Fruit_Super_01 POSTINIT-Other-Fruit_Super_01"
+	"ci_flag_military POSTINIT-Other-ci_flag_military"
+	"ci_flag_religious POSTINIT-Other-ci_flag_religious"
+	"ci_flag_economic POSTINIT-Other-ci_flag_economic"
+	"ci_gambling_cup_blue POSTINIT-Other-ci_gambling_cup_blue"
+	"ci_gambling_cup_red POSTINIT-Other-ci_gambling_cup_red"
+	"ci_gambling_cup_yellow POSTINIT-Other-ci_gambling_cup_yellow"
+	#"ci_harvest_balloon POSTINIT-Other-ci_harvest_balloon"
+	"ci_lottery POSTINIT-Other-ci_lottery"
+	"ci_megaphone POSTINIT-Other-ci_megaphone"
+	"BlackCloudTamaranianHopper POSTINIT-Other-BlackCloudTamaranianHopper"
+	"ICBMRemains POSTINIT-Other-ICBMRemains"
+	"ci_surrender_religious POSTINIT-Other-ci_surrender_religious"
+	"ci_trumpet POSTINIT-Other-ci_trumpet"
+	"civ_sign_lowFood POSTINIT-Other-civ_sign_lowFood"
+	"cr_brain POSTINIT-Other-cr_brain"
+	"sg_comet POSTINIT-Other-sg_comet"
+	"sg_pickup_loot POSTINIT-Other-sg_pickup_loot"
+	"sg_pickup_storybook POSTINIT-Other-sg_pickup_storybook"
+	"PickupTerraformTool POSTINIT-Other-PickupTerraformTool"
+	"sg_steve POSTINIT-Other-sg_steve"
+	"sg_rare_geodes_02 POSTINIT-Other-sg_rare_geodes_02"
+	"sg_rare_geodes_03 POSTINIT-Other-sg_rare_geodes_03"
+	"sg_rare_geodes_04 POSTINIT-Other-sg_rare_geodes_04"
+	"sg_rare_geodes_05 POSTINIT-Other-sg_rare_geodes_05"
+	"sg_rare_geodes_06 POSTINIT-Other-sg_rare_geodes_06"
+	"sg_rare_geodes_07 POSTINIT-Other-sg_rare_geodes_07"
+	"sg_rare_geodes_08 POSTINIT-Other-sg_rare_geodes_08"
+	"sg_rare_geodes_09 POSTINIT-Other-sg_rare_geodes_09"
+	"sg_rare_geodes_10 POSTINIT-Other-sg_rare_geodes_10"
+	"FirepitRocks POSTINIT-Other-FirepitRocks"
+	"be_effect_details_gear_01 POSTINIT-Other-be_effect_details_gear_01"
+	"be_effect_details_gear_04 POSTINIT-Other-be_effect_details_gear_04"
+	"be_effect_details_radar_01 POSTINIT-Other-be_effect_details_radar_01"
+	"CRG_Giant_Skeleton_Pillaged POSTINIT-Other-CRG_Giant_Skeleton_Pillaged"
+	"CRG_Skeleton_Destructed_01 POSTINIT-Other-CRG_Skeleton_Destructed_01"
+	"CRG_Skeleton_Destructed_02 POSTINIT-Other-CRG_Skeleton_Destructed_02"
+	"CRG_Skeleton_Destructed_03 POSTINIT-Other-CRG_Skeleton_Destructed_03"
+	"CRG_Skeleton_Destructed_04 POSTINIT-Other-CRG_Skeleton_Destructed_04"
+	"SeaUrchin POSTINIT-Other-SeaUrchin"
+	"Materials POSTINIT-Other-Materials"
+end
+
+
+
+key PedestalShaman PedestalShaman~
+key POSTINIT-Other-PedestalShaman 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalShaman
+
+key PedestalKnight PedestalKnight~
+key POSTINIT-Other-PedestalKnight 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalKnight
+
+key PedestalTrader PedestalTrader~
+key POSTINIT-Other-PedestalTrader 0KepOnlineObjectsPack_Postinits!POSTINIT-OtherPedestalTrader
+
+key PedestalScientist PedestalScientist~
+key POSTINIT-Other-PedestalScientist 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalScientist
+
+key PedestalEconomic PedestalEconomic~
+key POSTINIT-Other-PedestalEconomic 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalEconomic
+
+key PedestalMilitary PedestalMilitary~
+key POSTINIT-Other-PedestalMilitary 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalMilitary
+
+key PedestalZealot PedestalZealot~
+key POSTINIT-Other-PedestalZealot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalZealot
+
+key cr_egg_01_base cr_egg_01_base
+key POSTINIT-Other-cr_egg_01_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_01_base
+
+key cr_egg_02_base cr_egg_02_base
+key POSTINIT-Other-cr_egg_02_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_02_base
+
+key cr_egg_04_base cr_egg_04_base
+key POSTINIT-Other-cr_egg_04_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_04_base
+
+key cr_egg_06_base cr_egg_06_base
+key POSTINIT-Other-cr_egg_06_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_06_base
+
+key cr_egg_07_base cr_egg_07_base
+key POSTINIT-Other-cr_egg_07_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_07_base
+
+key cr_egg_08_base cr_egg_08_base
+key POSTINIT-Other-cr_egg_08_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_08_base
+
+key cr_egg_10_base cr_egg_10_base
+key POSTINIT-Other-cr_egg_10_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_10_base
+
+#<key cr_egg_01_hatched cr_egg_01_hatched
+key POSTINIT-Other-cr_egg_01_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_01_hatched
+
+key cr_egg_02_hatched cr_egg_02_hatched
+key POSTINIT-Other-cr_egg_02_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_02_hatched
+
+key cr_egg_03_hatched cr_egg_03_hatched
+key POSTINIT-Other-cr_egg_03_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_03_hatched
+
+key cr_egg_04_hatched cr_egg_04_hatched
+key POSTINIT-Other-cr_egg_04_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_04_hatched
+
+key cr_egg_05_hatched cr_egg_05_hatched
+key POSTINIT-Other-cr_egg_05_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_05_hatched
+
+key cr_egg_06_hatched cr_egg_06_hatched
+key POSTINIT-Other-cr_egg_06_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_06_hatched
+
+key cr_egg_07_hatched cr_egg_07_hatched
+key POSTINIT-Other-cr_egg_07_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_07_hatched
+
+key cr_egg_08_hatched cr_egg_08_hatched
+key POSTINIT-Other-cr_egg_08_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_08_hatched
+
+key cr_egg_09_hatched cr_egg_09_hatched
+key POSTINIT-Other-cr_egg_09_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_09_hatched
+
+key cr_egg_10_hatched cr_egg_10_hatched
+key POSTINIT-Other-cr_egg_10_hatched 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_10_hatched#>
+
+key CRG_Fruit_Poison CRG_Fruit_Poison
+key POSTINIT-Other-CRG_Fruit_Poison 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Fruit_Poison
+
+key Fruit_Normal_01 Fruit_Normal_01
+key POSTINIT-Other-Fruit_Normal_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Fruit_Normal_01
+
+key Fruit_Rotten_01 Fruit_Rotten_01
+key POSTINIT-Other-Fruit_Rotten_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Fruit_Rotten_01
+
+key Fruit_Super_01 Fruit_Super_01
+key POSTINIT-Other-Fruit_Super_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Fruit_Super_01
+
+key ci_flag_military ci_flag_military
+key POSTINIT-Other-ci_flag_military 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_flag_military
+
+key ci_flag_religious ci_flag_religious
+key POSTINIT-Other-ci_flag_religious 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_flag_religious
+
+key ci_flag_economic ci_flag_economic
+key POSTINIT-Other-ci_flag_economic 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_flag_economic
+
+key ci_gambling_cup_blue ci_gambling_cup_blue
+key POSTINIT-Other-ci_gambling_cup_blue 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_gambling_cup_blue
+
+key ci_gambling_cup_red ci_gambling_cup_red
+key POSTINIT-Other-ci_gambling_cup_red 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_gambling_cup_red
+
+key ci_gambling_cup_yellow ci_gambling_cup_yellow
+key POSTINIT-Other-ci_gambling_cup_yellow 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_gambling_cup_yellow
+
+#<key ci_harvest_balloon ci_harvest_balloon
+key POSTINIT-Other-ci_harvest_balloon 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_harvest_balloon#>
+
+key ci_lottery ci_lottery
+key POSTINIT-Other-ci_lottery 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_lottery
+
+key ci_megaphone ci_megaphone
+key POSTINIT-Other-ci_megaphone 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_megaphone
+
+key BlackCloudTamaranianHopper BlackCloudTamaranianHopper~
+key POSTINIT-Other-BlackCloudTamaranianHopper 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-BlackCloudTamaranianHopper
+
+key ICBMRemains ICBMRemains~
+key POSTINIT-Other-ICBMRemains 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ICBMRemains
+
+key ci_surrender_religious ci_surrender_religious
+key POSTINIT-Other-ci_surrender_religious 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_surrender_religious
+
+key ci_trumpet ci_trumpet
+key POSTINIT-Other-ci_trumpet 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_trumpet
+
+key civ_sign_lowFood civ_sign_lowFood
+key POSTINIT-Other-civ_sign_lowFood 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-civ_sign_lowFood
+
+key cr_brain cr_brain
+key POSTINIT-Other-cr_brain 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_brain
+
+key sg_comet sg_comet
+key POSTINIT-Other-sg_comet 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_comet
+
+key sg_pickup_loot sg_pickup_loot
+key POSTINIT-Other-sg_pickup_loot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_pickup_loot
+
+key sg_pickup_storybook sg_pickup_storybook
+key POSTINIT-Other-sg_pickup_storybook 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_pickup_storybook
+
+key PickupTerraformTool PickupTerraformTool~
+key POSTINIT-Other-PickupTerraformTool 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PickupTerraformTool
+
+key sg_steve sg_steve
+key POSTINIT-Other-sg_steve 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_steve
+
+key sg_rare_geodes_02 sg_rare_geodes_02
+key POSTINIT-Other-sg_rare_geodes_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_02
+
+key sg_rare_geodes_03 sg_rare_geodes_03
+key POSTINIT-Other-sg_rare_geodes_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_03
+
+key sg_rare_geodes_04 sg_rare_geodes_04
+key POSTINIT-Other-sg_rare_geodes_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_04
+
+key sg_rare_geodes_05 sg_rare_geodes_05
+key POSTINIT-Other-sg_rare_geodes_05 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_05
+
+key sg_rare_geodes_06 sg_rare_geodes_06
+key POSTINIT-Other-sg_rare_geodes_06 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_06
+
+key sg_rare_geodes_07 sg_rare_geodes_07
+key POSTINIT-Other-sg_rare_geodes_07 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_07
+
+key sg_rare_geodes_08 sg_rare_geodes_08
+key POSTINIT-Other-sg_rare_geodes_08 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_08
+
+key sg_rare_geodes_09 sg_rare_geodes_09
+key POSTINIT-Other-sg_rare_geodes_09 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_09
+
+key sg_rare_geodes_10 sg_rare_geodes_10
+key POSTINIT-Other-sg_rare_geodes_10 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_10
+
+key FirepitRocks FirepitRocks~
+key POSTINIT-Other-FirepitRocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-FirepitRocks
+
+key be_effect_details_gear_01 be_effect_details_gear_01
+key POSTINIT-Other-be_effect_details_gear_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-be_effect_details_gear_01
+
+key be_effect_details_gear_04 be_effect_details_gear_04
+key POSTINIT-Other-be_effect_details_gear_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-be_effect_details_gear_04
+
+key be_effect_details_radar_01 be_effect_details_radar_01
+key POSTINIT-Other-be_effect_details_radar_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-be_effect_details_radar_01
+
+key CRG_Giant_Skeleton_Pillaged CRG_Giant_Skeleton_Pillaged
+key POSTINIT-Other-CRG_Giant_Skeleton_Pillaged 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Giant_Skeleton_Pillaged
+
+key CRG_Skeleton_Destructed_01 CRG_Skeleton_Destructed_01
+key POSTINIT-Other-CRG_Skeleton_Destructed_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Skeleton_Destructed_01
+
+key CRG_Skeleton_Destructed_02 CRG_Skeleton_Destructed_02
+key POSTINIT-Other-CRG_Skeleton_Destructed_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Skeleton_Destructed_02
+
+key CRG_Skeleton_Destructed_03 CRG_Skeleton_Destructed_03
+key POSTINIT-Other-CRG_Skeleton_Destructed_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Skeleton_Destructed_03
+
+key CRG_Skeleton_Destructed_04 CRG_Skeleton_Destructed_04
+key POSTINIT-Other-CRG_Skeleton_Destructed_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Skeleton_Destructed_04
+
+key SeaUrchin SeaUrchin~
+key POSTINIT-Other-SeaUrchin 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-SeaUrchin
+
+key Materials Materials~
+key POSTINIT-Other-Materials 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Materials

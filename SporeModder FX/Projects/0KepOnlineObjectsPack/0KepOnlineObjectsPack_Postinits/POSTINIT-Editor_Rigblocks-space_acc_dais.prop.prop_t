@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureSpace.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Editor_Rigblocks!0x00000013) "Colonist Outfitter Base"
+end
+bool sporepediaShow true

@@ -1,0 +1,24 @@
+string8s postinitList
+	"generic_SpaceIceRock POSTINIT-Planet_Assets-generic_SpaceIceRock"
+	"generic_SpaceLavaRock POSTINIT-Planet_Assets-generic_SpaceLavaRock"
+	"generic_SpaceRock POSTINIT-Planet_Assets-generic_SpaceRock"
+	"ImpostorTemplate POSTINIT-Planet_Assets-ImpostorTemplate"
+	"SquareArrow POSTINIT-Planet_Assets-SquareArrow"
+end
+
+
+
+key generic_SpaceIceRock rocks~!generic_SpaceIceRock~
+key POSTINIT-Planet_Assets-generic_SpaceIceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceIceRock
+
+key generic_SpaceLavaRock rocks~!generic_SpaceLavaRock~
+key POSTINIT-Planet_Assets-generic_SpaceLavaRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceLavaRock
+
+key generic_SpaceRock rocks~!generic_SpaceRock~
+key POSTINIT-Planet_Assets-generic_SpaceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceRock
+
+key ImpostorTemplate rocks~!ImpostorTemplate
+key POSTINIT-Planet_Assets-ImpostorTemplate 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-ImpostorTemplate
+
+key SquareArrow rocks~!SquareArrow~
+key POSTINIT-Planet_Assets-SquareArrow 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-SquareArrow

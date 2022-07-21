@@ -1,0 +1,7 @@
+key parent AssetBrowserFeedItems!keylist_Template.prop
+uint32 feedListItemGroupID 0x40010000
+key feedListItemIconKey lucky.rw4
+texts feedListItemName
+	"PNG-added"
+end
+key feedListItemSelectedFilterID ScenarioGameplaySkinning_Filter~

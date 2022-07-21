@@ -1,0 +1,39 @@
+string8s postinitList
+	"ep1_gmp_bomb POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_bombLong POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_bombShort POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_destructibleCrate POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_explosiveBarrel POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_gateblue POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_gategreen POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_gatered POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_gateWhite POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_gateyellow POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_grenade POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_keycardblue POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_keycardgreen POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_keycardred POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_keycardwhite POSTINIT-PaletteItems-GameplayObjects"
+	"ep1_gmp_keycardyellow POSTINIT-PaletteItems-GameplayObjects"
+end
+
+
+
+key ep1_gmp_bomb PaletteItems!ep1_gmp_bomb
+key ep1_gmp_bombLong PaletteItems!ep1_gmp_bombLong
+key ep1_gmp_bombShort PaletteItems!ep1_gmp_bombShort
+key ep1_gmp_destructibleCrate PaletteItems!ep1_gmp_destructibleCrate
+key ep1_gmp_explosiveBarrel PaletteItems!ep1_gmp_explosiveBarrel
+key ep1_gmp_gateblue PaletteItems!ep1_gmp_gateblue
+key ep1_gmp_gategreen PaletteItems!ep1_gmp_gategreen
+key ep1_gmp_gatered PaletteItems!ep1_gmp_gatered
+key ep1_gmp_gateWhite PaletteItems!ep1_gmp_gateWhite
+key ep1_gmp_gateyellow PaletteItems!ep1_gmp_gateyellow
+key ep1_gmp_grenade PaletteItems!ep1_gmp_grenade
+key ep1_gmp_keycardblue PaletteItems!ep1_gmp_keycardblue
+key ep1_gmp_keycardgreen PaletteItems!ep1_gmp_keycardgreen
+key ep1_gmp_keycardred PaletteItems!ep1_gmp_keycardred
+key ep1_gmp_keycardwhite PaletteItems!ep1_gmp_keycardwhite
+key ep1_gmp_keycardyellow PaletteItems!ep1_gmp_keycardyellow
+
+key POSTINIT-PaletteItems-GameplayObjects 0KepOnlineObjectsPack_Postinits!POSTINIT-PaletteItems-GameplayObjects

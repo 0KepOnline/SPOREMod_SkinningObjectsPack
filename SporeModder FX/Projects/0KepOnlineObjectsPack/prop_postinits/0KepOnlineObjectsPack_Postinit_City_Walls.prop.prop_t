@@ -1,0 +1,20 @@
+string8s postinitList
+	"Castle POSTINIT-City_Walls-Castle"
+	"Diplo POSTINIT-City_Walls-Diplo"
+	"Shrine POSTINIT-City_Walls-Shrine"
+	"SpaceColony POSTINIT-City_Walls-SpaceColony"
+end
+
+
+
+key Castle citystyles~!Castle
+key POSTINIT-City_Walls-Castle 0KepOnlineObjectsPack_Postinits!POSTINIT-City_Walls-Castle
+
+key Diplo citystyles~!Diplo
+key POSTINIT-City_Walls-Diplo 0KepOnlineObjectsPack_Postinits!POSTINIT-City_Walls-Diplo
+
+key Shrine citystyles~!Shrine
+key POSTINIT-City_Walls-Shrine 0KepOnlineObjectsPack_Postinits!POSTINIT-City_Walls-Shrine
+
+key SpaceColony citystyles~!SpaceColony
+key POSTINIT-City_Walls-SpaceColony 0KepOnlineObjectsPack_Postinits!POSTINIT-City_Walls-SpaceColony

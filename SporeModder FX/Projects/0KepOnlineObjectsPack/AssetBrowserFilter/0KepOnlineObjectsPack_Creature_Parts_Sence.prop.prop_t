@@ -1,0 +1,6 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key browserFilterButtonAtlasedIconID 0x41464100!0KepOnlineObjectsPack_Filter_Sence
+key browserFilterData 0KepOnlineObjectsPack_Creature_Parts_Sence
+texts browserFilterName
+	(CE!ce_category_eyes_&_senses) "Eyes & Senses"
+end

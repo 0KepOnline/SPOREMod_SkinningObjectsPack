@@ -1,0 +1,6 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key browserFilterButtonAtlasedIconID 0x41464100!0KepOnlineObjectsPack_Filter_Mouth
+key browserFilterData 0KepOnlineObjectsPack_Creature_Parts_Mouth
+texts browserFilterName
+	(CE!ce_page_mouth) "Mouths"
+end

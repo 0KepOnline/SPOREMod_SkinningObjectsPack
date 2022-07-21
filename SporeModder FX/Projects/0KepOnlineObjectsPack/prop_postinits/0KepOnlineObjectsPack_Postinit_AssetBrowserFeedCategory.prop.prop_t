@@ -1,0 +1,8 @@
+string8s postinitList
+	"AssetBrowserFeedCategory POSTINIT-AssetBrowserFeedCategory"
+end
+
+
+
+key AssetBrowserFeedCategory AssetBrowserFeedCategories!0KepOnlineObjectsPack
+key POSTINIT-AssetBrowserFeedCategory 0KepOnlineObjectsPack_Postinits!POSTINIT-AssetBrowserFeedCategory

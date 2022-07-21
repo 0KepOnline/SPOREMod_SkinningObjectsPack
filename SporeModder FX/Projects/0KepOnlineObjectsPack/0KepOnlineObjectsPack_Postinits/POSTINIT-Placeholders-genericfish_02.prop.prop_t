@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Editor_Backgrounds.png
+texts sporepediaName
+	"genericfish_02"
+end
+bool sporepediaShow true

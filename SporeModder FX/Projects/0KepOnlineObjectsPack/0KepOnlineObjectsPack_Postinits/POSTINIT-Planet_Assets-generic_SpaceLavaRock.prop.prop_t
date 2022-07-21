@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Space_Rock.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Planet_Assets!0x00000003) "Generic Lava Rock"
+end
+bool sporepediaShow true

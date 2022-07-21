@@ -1,0 +1,12 @@
+key parent AssetBrowserFeedItems!keylist_Template.prop
+key feedListItemIconKey common~!0xF7470D8A.png
+texts feedListItemName
+	(0KepOnlineObjectsPack_Error!0x00000000) "No UPE"
+end
+
+string8s tutorialLinks
+	"https://davoonline.com/phpBB3/viewtopic.php?t=6300"
+	"http://davoonline.com/sporemodder/rob55rod/ModAPI/Public"
+	"https://davoonline.com/phpBB3/viewtopic.php?t=6523"
+	"https://github.com/Zarklord/UniversalPropertyEnhancer/releases/latest"
+end

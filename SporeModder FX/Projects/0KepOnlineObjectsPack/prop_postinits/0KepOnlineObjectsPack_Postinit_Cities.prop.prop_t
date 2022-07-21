@@ -1,0 +1,92 @@
+string8s postinitList
+	"ci_castle_citywalls_large POSTINIT-Cities-ci_castle_citywalls_large"
+	"ci_castle_citywalls_small POSTINIT-Cities-ci_castle_citywalls_small"
+	"ci_castle_gun POSTINIT-Cities-ci_castle_gun"
+	"ci_castle_gun_destroyed POSTINIT-Cities-ci_castle_gun_destroyed"
+	"ci_curvy_gun_destroyed POSTINIT-Cities-ci_curvy_gun_destroyed"
+	"ci_diplo_citywalls_large POSTINIT-Cities-ci_diplo_citywalls_large"
+	"ci_diplo_citywalls_small POSTINIT-Cities-ci_diplo_citywalls_small"
+	"ci_diplo_gun POSTINIT-Cities-ci_diplo_gun"
+	"ci_diplo_gun_destroyed POSTINIT-Cities-ci_diplo_gun_destroyed"
+	"ci_grob_gun POSTINIT-Cities-ci_grob_gun"
+	"ci_old_gun POSTINIT-Cities-ci_old_gun"
+	"ci_old_gun_destroyed POSTINIT-Cities-ci_old_gun_destroyed"
+	"ci_shrine_citywalls_large POSTINIT-Cities-ci_shrine_citywalls_large"
+	"ci_shrine_citywalls_small POSTINIT-Cities-ci_shrine_citywalls_small"
+	"ci_space_gun POSTINIT-Cities-ci_space_gun"
+	"ci_space_gun_destroyed POSTINIT-Cities-ci_space_gun_destroyed"
+	"ColonyDocks POSTINIT-Cities-ColonyDocks"
+	"Colony_Walls POSTINIT-Cities-Colony_Walls"
+	"CulturalDocks POSTINIT-Cities-CulturalDocks"
+	"EconomicDocks POSTINIT-Cities-EconomicDocks"
+	"MilitaryDocks POSTINIT-Cities-MilitaryDocks"
+	"SG_GroB_Walls POSTINIT-Cities-SG_GroB_Walls"
+end
+
+
+
+key ci_castle_citywalls_large citystyles_models~!ci_castle_citywalls_large
+key POSTINIT-Cities-ci_castle_citywalls_large 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_castle_citywalls_large
+
+key ci_castle_citywalls_small citystyles_models~!ci_castle_citywalls_small
+key POSTINIT-Cities-ci_castle_citywalls_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_castle_citywalls_small
+
+key ci_castle_gun citystyles_models~!ci_castle_gun
+key POSTINIT-Cities-ci_castle_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_castle_gun
+
+key ci_castle_gun_destroyed citystyles_models~!ci_castle_gun_destroyed
+key POSTINIT-Cities-ci_castle_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_castle_gun_destroyed
+
+key ci_curvy_gun_destroyed citystyles_models~!ci_curvy_gun_destroyed
+key POSTINIT-Cities-ci_curvy_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_curvy_gun_destroyed
+
+key ci_diplo_citywalls_large citystyles_models~!ci_diplo_citywalls_large
+key POSTINIT-Cities-ci_diplo_citywalls_large 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_diplo_citywalls_large
+
+key ci_diplo_citywalls_small citystyles_models~!ci_diplo_citywalls_small
+key POSTINIT-Cities-ci_diplo_citywalls_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_diplo_citywalls_small
+
+key ci_diplo_gun citystyles_models~!ci_diplo_gun
+key POSTINIT-Cities-ci_diplo_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_diplo_gun
+
+key ci_diplo_gun_destroyed citystyles_models~!ci_diplo_gun_destroyed
+key POSTINIT-Cities-ci_diplo_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_diplo_gun_destroyed
+
+key ci_grob_gun citystyles_models~!ci_grob_gun
+key POSTINIT-Cities-ci_grob_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_grob_gun
+
+key ci_old_gun citystyles_models~!ci_old_gun
+key POSTINIT-Cities-ci_old_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_old_gun
+
+key ci_old_gun_destroyed citystyles_models~!ci_old_gun_destroyed
+key POSTINIT-Cities-ci_old_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_old_gun_destroyed
+
+key ci_shrine_citywalls_large citystyles_models~!ci_shrine_citywalls_large
+key POSTINIT-Cities-ci_shrine_citywalls_large 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_shrine_citywalls_large
+
+key ci_shrine_citywalls_small citystyles_models~!ci_shrine_citywalls_small
+key POSTINIT-Cities-ci_shrine_citywalls_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_shrine_citywalls_small
+
+key ci_space_gun citystyles_models~!ci_space_gun
+key POSTINIT-Cities-ci_space_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_space_gun
+
+key ci_space_gun_destroyed citystyles_models~!ci_space_gun_destroyed
+key POSTINIT-Cities-ci_space_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_space_gun_destroyed
+
+key ColonyDocks citystyles_models~!ColonyDocks~
+key POSTINIT-Cities-ColonyDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ColonyDocks
+
+key Colony_Walls citystyles_models~!Colony_Walls
+key POSTINIT-Cities-Colony_Walls 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-Colony_Walls
+
+key CulturalDocks citystyles_models~!CulturalDocks~
+key POSTINIT-Cities-CulturalDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-CulturalDocks
+
+key EconomicDocks citystyles_models~!EconomicDocks~
+key POSTINIT-Cities-EconomicDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-EconomicDocks
+
+key MilitaryDocks citystyles_models~!MilitaryDocks~
+key POSTINIT-Cities-MilitaryDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-MilitaryDocks
+
+key SG_GroB_Walls citystyles_models~!SG_GroB_Walls
+key POSTINIT-Cities-SG_GroB_Walls 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-SG_GroB_Walls

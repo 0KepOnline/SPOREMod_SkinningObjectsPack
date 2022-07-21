@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Other!0x0000002b) "Brain"
+end
+bool sporepediaShow true

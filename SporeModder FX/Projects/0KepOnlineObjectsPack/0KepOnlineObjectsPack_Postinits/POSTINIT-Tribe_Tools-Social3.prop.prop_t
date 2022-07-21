@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Tribe_Tools.png
+texts sporepediaName
+	(ta!0x05b08b08) "Aerophones"
+end
+bool sporepediaShow true

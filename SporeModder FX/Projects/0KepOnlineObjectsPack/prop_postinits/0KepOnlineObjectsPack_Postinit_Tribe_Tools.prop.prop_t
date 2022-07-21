@@ -1,0 +1,40 @@
+string8s postinitList
+	"Attack1 POSTINIT-Tribe_Tools-Attack1"
+	"Attack2 POSTINIT-Tribe_Tools-Attack2"
+	"Attack3 POSTINIT-Tribe_Tools-Attack3"
+	"Fish POSTINIT-Tribe_Tools-Fish"
+	"Gather POSTINIT-Tribe_Tools-Gather"
+	"Heal POSTINIT-Tribe_Tools-Heal"
+	"Social1 POSTINIT-Tribe_Tools-Social1"
+	"Social2 POSTINIT-Tribe_Tools-Social2"
+	"Social3 POSTINIT-Tribe_Tools-Social3"
+end
+
+
+
+key Attack1 tribe_tools~!Attack1
+key POSTINIT-Tribe_Tools-Attack1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Attack1
+
+key Attack2 tribe_tools~!Attack2
+key POSTINIT-Tribe_Tools-Attack2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Attack2
+
+key Attack3 tribe_tools~!Attack3
+key POSTINIT-Tribe_Tools-Attack3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Attack3
+
+key Fish tribe_tools~!Fish
+key POSTINIT-Tribe_Tools-Fish 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Fish
+
+key Gather tribe_tools~!Gather
+key POSTINIT-Tribe_Tools-Gather 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Gather
+
+key Heal tribe_tools~!Heal
+key POSTINIT-Tribe_Tools-Heal 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Heal
+
+key Social1 tribe_tools~!Social1
+key POSTINIT-Tribe_Tools-Social1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Social1
+
+key Social2 tribe_tools~!Social2
+key POSTINIT-Tribe_Tools-Social2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Social2
+
+key Social3 tribe_tools~!Social3
+key POSTINIT-Tribe_Tools-Social3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe_Tools-Social3

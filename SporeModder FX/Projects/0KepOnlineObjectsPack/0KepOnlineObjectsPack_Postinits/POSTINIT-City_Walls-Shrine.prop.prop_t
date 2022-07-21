@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_City_Walls.png
+texts sporepediaName
+	(consequence!0x00000055) "Cultural Walls"
+end
+bool sporepediaShow true

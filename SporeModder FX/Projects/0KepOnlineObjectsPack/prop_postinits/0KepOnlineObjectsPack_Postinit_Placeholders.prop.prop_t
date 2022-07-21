@@ -1,0 +1,64 @@
+string8s postinitList
+	"amoeba_cell_rigid POSTINIT-Placeholders-amoeba_cell_rigid"
+	"clg_amoeba POSTINIT-Placeholders-clg_amoeba"
+	"CSA_hoolahoop POSTINIT-Placeholders-CSA_hoolahoop"
+	"genericfish_01 POSTINIT-Placeholders-genericfish_01"
+	"genericfish_02 POSTINIT-Placeholders-genericfish_02"
+	"genericfish_03 POSTINIT-Placeholders-genericfish_03"
+	"genericfish_jumping POSTINIT-Placeholders-genericfish_jumping"
+	"genericfruit_01 POSTINIT-Placeholders-genericfruit_01"
+	"genericfruit_02 POSTINIT-Placeholders-genericfruit_02"
+	"genericfruit_03 POSTINIT-Placeholders-genericfruit_03"
+	"genericmeat_01 POSTINIT-Placeholders-genericmeat_01"
+	"genericmeat_02 POSTINIT-Placeholders-genericmeat_02"
+	"genericmeat_03 POSTINIT-Placeholders-genericmeat_03"
+	"L0_spiky_guy POSTINIT-Placeholders-L0_spiky_guy"
+	"sg_ufo_ice_comet POSTINIT-Placeholders-sg_ufo_ice_comet"
+end
+
+
+
+key amoeba_cell_rigid placeholder!amoeba_cell_rigid
+key POSTINIT-Placeholders-amoeba_cell_rigid 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-amoeba_cell_rigid
+
+key clg_amoeba placeholder!clg_amoeba
+key POSTINIT-Placeholders-clg_amoeba 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-clg_amoeba
+
+key CSA_hoolahoop placeholder!CSA_hoolahoop
+key POSTINIT-Placeholders-CSA_hoolahoop 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-CSA_hoolahoop
+
+key genericfish_01 placeholder!genericfish_01
+key POSTINIT-Placeholders-genericfish_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfish_01
+
+key genericfish_02 placeholder!genericfish_02
+key POSTINIT-Placeholders-genericfish_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfish_02
+
+key genericfish_03 placeholder!genericfish_03
+key POSTINIT-Placeholders-genericfish_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfish_03
+
+key genericfish_jumping placeholder!genericfish_jumping
+key POSTINIT-Placeholders-genericfish_jumping 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfish_jumping
+
+key genericfruit_01 placeholder!genericfruit_01
+key POSTINIT-Placeholders-genericfruit_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfruit_01
+
+key genericfruit_02 placeholder!genericfruit_02
+key POSTINIT-Placeholders-genericfruit_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfruit_02
+
+key genericfruit_03 placeholder!genericfruit_03
+key POSTINIT-Placeholders-genericfruit_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericfruit_03
+
+key genericmeat_01 placeholder!genericmeat_01
+key POSTINIT-Placeholders-genericmeat_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericmeat_01
+
+key genericmeat_02 placeholder!genericmeat_02
+key POSTINIT-Placeholders-genericmeat_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericmeat_02
+
+key genericmeat_03 placeholder!genericmeat_03
+key POSTINIT-Placeholders-genericmeat_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-genericmeat_03
+
+key L0_spiky_guy placeholder!L0_spiky_guy
+key POSTINIT-Placeholders-L0_spiky_guy 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-L0_spiky_guy
+
+key sg_ufo_ice_comet placeholder!sg_ufo_ice_comet
+key POSTINIT-Placeholders-sg_ufo_ice_comet 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-sg_ufo_ice_comet

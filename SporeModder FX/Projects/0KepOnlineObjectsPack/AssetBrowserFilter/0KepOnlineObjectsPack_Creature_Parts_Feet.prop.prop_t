@@ -1,0 +1,6 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key browserFilterButtonAtlasedIconID 0x41464100!0KepOnlineObjectsPack_Filter_Feet
+key browserFilterData 0KepOnlineObjectsPack_Creature_Parts_Feet
+texts browserFilterName
+	(CE!ce_category_feet) "Feet"
+end

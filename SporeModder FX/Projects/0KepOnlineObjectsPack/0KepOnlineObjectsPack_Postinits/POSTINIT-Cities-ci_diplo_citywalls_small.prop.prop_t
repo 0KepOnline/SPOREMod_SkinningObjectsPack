@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_City_Walls.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Cities!0x00000011) "Economic"
+end
+bool sporepediaShow true

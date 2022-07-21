@@ -1,0 +1,16 @@
+key parent AssetBrowserConfig!0x7FCFA6F0.prop
+texts sporepediaConfigCallToActionMessage
+	(sporepediaEP1!0x072925b6) "placeholder"
+end
+bool sporepediaConfigEnableMakeNewButton false
+bool sporepediaConfigEnableOutfitButton false
+key sporepediaConfigFeedListID ScenarioDefault
+keys sporepediaConfigForceExpandCategories
+	0KepOnlineObjectsPack
+	0xA8490AB6
+	MyStuff
+	ScenarioObjects
+end
+key sporepediaConfigRootFilterID ScenarioUsable
+key sporepediaConfigSelectedFilterID ScenarioUsable
+key sporepediaConfigVerbTrayTypeOverride AdventurerCreature
