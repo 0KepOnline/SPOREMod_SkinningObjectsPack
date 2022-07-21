@@ -78,7 +78,7 @@ key PedestalKnight PedestalKnight~
 key POSTINIT-Other-PedestalKnight 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalKnight
 
 key PedestalTrader PedestalTrader~
-key POSTINIT-Other-PedestalTrader 0KepOnlineObjectsPack_Postinits!POSTINIT-OtherPedestalTrader
+key POSTINIT-Other-PedestalTrader 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalTrader
 
 key PedestalScientist PedestalScientist~
 key POSTINIT-Other-PedestalScientist 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalScientist
