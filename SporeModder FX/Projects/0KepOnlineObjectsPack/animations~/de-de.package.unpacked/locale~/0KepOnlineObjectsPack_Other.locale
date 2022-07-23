@@ -12,16 +12,16 @@
 0x0000000c Lila Ei
 0x0000000d Sandfarbenes Ei
 0x0000000e Vorwitziges Ei
-0x0000000f Egg Love Hatched# 	Hatched version of Liebesei
-0x00000010 Egg Envy Hatched# 	Hatched version of Neid-Ei
-0x00000011 Egg Groovy Hatched# 	Hatched version of Groovy Ei
-0x00000012 Egg Solid Hatched# 	Hatched version of Robustes Ei
-0x00000013 Egg Happy Hatched# 	Hatched version of Glücksei
-0x00000014 Egg Alien Hatched# 	Hatched version of Alien-Ei
-0x00000015 Egg Quark Hatched# 	Hatched version of Lila Ei
-0x00000016 Egg Sandy Hatched# 	Hatched version of Sandfarbenes Ei
-0x00000017 Epic Egg Hatched#	Hatched version of Gewaltiges Ei
-0x00000018 Egg Sassy Hatched# 	Hatched version of Vorwitziges Ei
+0x0000000f Ausgebrütet Liebesei# 	Hatched version of Liebesei
+0x00000010 Ausgebrütet Neid-Ei# 		Hatched version of Neid-Ei
+0x00000011 Ausgebrütet Groovy Ei# 	Hatched version of Groovy Ei
+0x00000012 Ausgebrütet Robustes Ei# 	Hatched version of Robustes Ei
+0x00000013 Ausgebrütet Glücksei# 	Hatched version of Glücksei
+0x00000014 Ausgebrütet Alien-Ei# 	Hatched version of Alien-Ei
+0x00000015 Ausgebrütet Lila Ei# 		Hatched version of Lila Ei
+0x00000016 Ausgebrütet Sandfarbenes Ei# 	Hatched version of Sandfarbenes Ei
+0x00000017 Ausgebrütet Gewaltiges Ei#	Hatched version of Gewaltiges Ei
+0x00000018 Ausgebrütet Vorwitziges Ei# 	Hatched version of Vorwitziges Ei
 0x00000019 Fruit Poisonous
 0x0000001a Fruit Simplified
 0x0000001b Fruit Rotten
@@ -59,10 +59,10 @@
 0x0000003b Gear Small
 0x0000003c Gear Large
 0x0000003d Seeker
-0x0000003e Skeletthaufen
-0x0000003f Skelett
-0x00000040 Skelett, Brustkorb
-0x00000041 Skelett, Wirbelsäule
-0x00000042 Skelett, Fisch
+0x0000003e Geplündert Skeletthaufen
+0x0000003f Geplündert Skelett
+0x00000040 Geplündert Skelett, Brustkorb
+0x00000041 Geplündert Skelett, Wirbelsäule
+0x00000042 Geplündert Skelett, Fisch
 0x00000043 Sea Urchin
 0x00000044 Building Materials

@@ -59,10 +59,10 @@
 0x0000003b Pieni hammaspyörä
 0x0000003c Iso hammaspyörä
 0x0000003d Etsijä
-0x0000003e Luurykelmä
-0x0000003f Luut
-0x00000040 Kylkiluut
-0x00000041 Selkäranka
-0x00000042 Kalanruoto
+0x0000003e Luurykelmä (pengottu)
+0x0000003f Luut (pengottu)
+0x00000040 Kylkiluut (pengottu)
+0x00000041 Selkäranka (pengottu)
+0x00000042 Kalanruoto (pengottu)
 0x00000043 Merisiili
 0x00000044 Rakennusmateriaalit
