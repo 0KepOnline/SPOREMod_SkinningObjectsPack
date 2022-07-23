@@ -9,12 +9,13 @@
 0x00000009 Uskontotykki
 0x00000010 Taloudellinen - iso
 0x00000011 Taloudellinen
-0x00000012 Rikkinäinen taloustykki
-0x00000013 Taloustykki
-0x00000014 Kropotykki
-0x00000015 Sotilaallinen - iso
-0x00000016 Sotilaallinen
-0x00000017 Sotilaallinen laituri
-0x00000018 Rikkinäinen sotilastykki
-0x00000019 Sotilastykki
-0x00000020 Kropo
+0000000012 Taloudellinen laituri
+0x00000013 Rikkinäinen taloustykki
+0x00000014 Taloustykki
+0x00000015 Kropotykki
+0x00000016 Sotilaallinen - iso
+0x00000017 Sotilaallinen
+0x00000018 Sotilaallinen laituri
+0x00000019 Rikkinäinen sotilastykki
+0x00000020 Sotilastykki
+0x00000021 Kropo
