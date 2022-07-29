@@ -1,0 +1,88 @@
+string8s postinitList
+	"tt_civ_firepit_home_01 POSTINIT-Tribes-tt_civ_firepit_home_01"
+	"tt_civ_firepit_home_02 POSTINIT-Tribes-tt_civ_firepit_home_02"
+	"tt_civ_firepit_home_03 POSTINIT-Tribes-tt_civ_firepit_home_03"
+	"trg_scoreSign_scr0 POSTINIT-Tribes-trg_scoreSign_scr0"
+	"trg_scoreSign_scr1 POSTINIT-Tribes-trg_scoreSign_scr1"
+	"trg_scoreSign_scr2 POSTINIT-Tribes-trg_scoreSign_scr2"
+	"trg_scoreSign_scr3 POSTINIT-Tribes-trg_scoreSign_scr3"
+	"trg_scoreSign_scr4 POSTINIT-Tribes-trg_scoreSign_scr4"
+	"trg_scoreSign_scr5 POSTINIT-Tribes-trg_scoreSign_scr5"
+	"trg_scoreSign_scr6 POSTINIT-Tribes-trg_scoreSign_scr6"
+	"trg_scoreSign_scr7 POSTINIT-Tribes-trg_scoreSign_scr7"
+	"trg_scoreSign_scr8 POSTINIT-Tribes-trg_scoreSign_scr8"
+	"trg_scoreSign_scr9 POSTINIT-Tribes-trg_scoreSign_scr9"
+	"trg_seamon POSTINIT-Tribes-trg_seamon"
+	"tt_chieftain_staff_fish POSTINIT-Tribes-tt_chieftain_staff_fish"
+	"tt_chieftain_staff_seaweed POSTINIT-Tribes-tt_chieftain_staff_seaweed"
+	"tt_eggpen_none POSTINIT-Tribes-tt_eggpen_none"
+	"tt_Shed_Destroyed POSTINIT-Tribes-tt_Shed_Destroyed"
+	"tt_totempole_combat POSTINIT-Tribes-tt_totempole_combat"
+	"tt_totempole_social POSTINIT-Tribes-tt_totempole_social"
+	"tt_pigpen POSTINIT-Tribes-tt_pigpen"
+end
+
+
+
+key tt_civ_firepit_home_01 TribalTools!tt_civ_firepit_home_01
+key POSTINIT-Tribes-tt_civ_firepit_home_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_civ_firepit_home_01
+
+key tt_civ_firepit_home_02 TribalTools!tt_civ_firepit_home_02
+key POSTINIT-Tribes-tt_civ_firepit_home_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_civ_firepit_home_02
+
+key tt_civ_firepit_home_03 TribalTools!tt_civ_firepit_home_03
+key POSTINIT-Tribes-tt_civ_firepit_home_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_civ_firepit_home_03
+
+key trg_scoreSign_scr0 TribalTools!trg_scoreSign_scr0
+key POSTINIT-Tribes-trg_scoreSign_scr0 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr0
+
+key trg_scoreSign_scr1 TribalTools!trg_scoreSign_scr1
+key POSTINIT-Tribes-trg_scoreSign_scr1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr1
+
+key trg_scoreSign_scr2 TribalTools!trg_scoreSign_scr2
+key POSTINIT-Tribes-trg_scoreSign_scr2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr2
+
+key trg_scoreSign_scr3 TribalTools!trg_scoreSign_scr3
+key POSTINIT-Tribes-trg_scoreSign_scr3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr3
+
+key trg_scoreSign_scr4 TribalTools!trg_scoreSign_scr4
+key POSTINIT-Tribes-trg_scoreSign_scr4 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr4
+
+key trg_scoreSign_scr5 TribalTools!trg_scoreSign_scr5
+key POSTINIT-Tribes-trg_scoreSign_scr5 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr5
+
+key trg_scoreSign_scr6 TribalTools!trg_scoreSign_scr6
+key POSTINIT-Tribes-trg_scoreSign_scr6 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr6
+
+key trg_scoreSign_scr7 TribalTools!trg_scoreSign_scr7
+key POSTINIT-Tribes-trg_scoreSign_scr7 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr7
+
+key trg_scoreSign_scr8 TribalTools!trg_scoreSign_scr8
+key POSTINIT-Tribes-trg_scoreSign_scr8 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr8
+
+key trg_scoreSign_scr9 TribalTools!trg_scoreSign_scr9
+key POSTINIT-Tribes-trg_scoreSign_scr9 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_scoreSign_scr9
+
+key trg_seamon TribalTools!trg_seamon
+key POSTINIT-Tribes-trg_seamon 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_seamon
+
+key tt_chieftain_staff_fish TribalTools!tt_chieftain_staff_fish
+key POSTINIT-Tribes-tt_chieftain_staff_fish 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_chieftain_staff_fish
+
+key tt_chieftain_staff_seaweed TribalTools!tt_chieftain_staff_seaweed
+key POSTINIT-Tribes-tt_chieftain_staff_seaweed 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_chieftain_staff_seaweed
+
+key tt_eggpen_none TribalTools!tt_eggpen_none
+key POSTINIT-Tribes-tt_eggpen_none 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_eggpen_none
+
+key tt_Shed_Destroyed TribalTools!tt_Shed_Destroyed
+key POSTINIT-Tribes-tt_Shed_Destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_Shed_Destroyed
+
+key tt_totempole_combat TribalTools!tt_totempole_combat
+key POSTINIT-Tribes-tt_totempole_combat 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_totempole_combat
+
+key tt_totempole_social TribalTools!tt_totempole_social
+key POSTINIT-Tribes-tt_totempole_social 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_totempole_social
+
+key tt_pigpen TribalTools!Tt_Pigpen
+key POSTINIT-Tribes-tt_pigpen 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_pigpen

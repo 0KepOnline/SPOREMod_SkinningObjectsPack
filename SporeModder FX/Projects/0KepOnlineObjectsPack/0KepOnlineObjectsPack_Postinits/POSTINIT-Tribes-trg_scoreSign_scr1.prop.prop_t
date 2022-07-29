@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Tribes!0x00000004) "Score Sign 1"
+end
+bool sporepediaShow true
