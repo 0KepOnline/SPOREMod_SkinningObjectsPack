@@ -9,7 +9,7 @@
 0x00000009 Uskontotykki
 0x00000010 Taloudellinen - iso
 0x00000011 Taloudellinen
-0000000012 Taloudellinen laituri
+0x00000012 Taloudellinen laituri
 0x00000013 Rikkinäinen taloustykki
 0x00000014 Taloustykki
 0x00000015 Kropotykki
