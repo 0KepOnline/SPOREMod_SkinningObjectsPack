@@ -1652,3 +1652,4 @@ PickupTerraformTool~	0x56c15a5c
 FirepitRocks~	0xee824837
 SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba
+Tube~	0x34d1a971

@@ -20,6 +20,14 @@ string8s postinitList
 	"tt_totempole_combat POSTINIT-Tribes-tt_totempole_combat"
 	"tt_totempole_social POSTINIT-Tribes-tt_totempole_social"
 	"tt_pigpen POSTINIT-Tribes-tt_pigpen"
+	"trg_firebomb POSTINIT-Tribes-trg_firebomb"
+	"trg_fishconch POSTINIT-Tribes-trg_fishconch"
+	"trg_sacrifice_altar1 POSTINIT-Tribes-trg_sacrifice_altar1"
+	"trg_sacrifice_altar3 POSTINIT-Tribes-trg_sacrifice_altar3"
+	"trg-suirhorn1 POSTINIT-Tribes-trg-suirhorn1"
+	"trg-suirhorn2 POSTINIT-Tribes-trg-suirhorn2"
+	"trg-suirhorn3 POSTINIT-Tribes-trg-suirhorn3"
+	"Tube POSTINIT-Tribes-Tube"
 end
 
 
@@ -86,3 +94,27 @@ key POSTINIT-Tribes-tt_totempole_social 0KepOnlineObjectsPack_Postinits!POSTINIT
 
 key tt_pigpen TribalTools!Tt_Pigpen
 key POSTINIT-Tribes-tt_pigpen 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-tt_pigpen
+
+key trg_firebomb TribalTools!trg_firebomb
+key POSTINIT-Tribes-trg_firebomb 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_firebomb
+
+key trg_fishconch TribalTools!trg_fishconch
+key POSTINIT-Tribes-trg_fishconch 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_fishconch
+
+key trg_sacrifice_altar1 TribalTools!trg_sacrifice_altar1
+key POSTINIT-Tribes-trg_sacrifice_altar1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_sacrifice_altar1
+
+key trg_sacrifice_altar3 TribalTools!trg_sacrifice_altar3
+key POSTINIT-Tribes-trg_sacrifice_altar3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_sacrifice_altar3
+
+key trg-suirhorn1 TribalTools!trg-suirhorn1
+key POSTINIT-Tribes-trg-suirhorn1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg-suirhorn1
+
+key trg-suirhorn2 TribalTools!trg-suirhorn2
+key POSTINIT-Tribes-trg-suirhorn2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg-suirhorn2
+
+key trg-suirhorn3 TribalTools!trg-suirhorn3
+key POSTINIT-Tribes-trg-suirhorn3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg-suirhorn3
+
+key Tube TribalTools!Tube~
+key POSTINIT-Tribes-Tube 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-Tube

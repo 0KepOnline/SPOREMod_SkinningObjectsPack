@@ -31,6 +31,11 @@ string8s postinitList
 	"cl_ce_editor_dais POSTINIT-Editor_Rigblocks-cl_ce_editor_dais"
 	"tri_acc_background POSTINIT-Editor_Rigblocks-tri_acc_background"
 	"tri_acc_pedastal POSTINIT-Editor_Rigblocks-tri_acc_pedastal"
+	"cl_editor_base_level0 POSTINIT-Editor_Rigblocks-cl_editor_base_level0"
+	"cl_editor_base_level1 POSTINIT-Editor_Rigblocks-cl_editor_base_level1"
+	"cl_editor_base_level2 POSTINIT-Editor_Rigblocks-cl_editor_base_level2"
+	"cl_editor_base_level3 POSTINIT-Editor_Rigblocks-cl_editor_base_level3"
+	"cl_editor_base_level4 POSTINIT-Editor_Rigblocks-cl_editor_base_level4"
 end
 
 
@@ -130,3 +135,18 @@ key POSTINIT-Editor_Rigblocks-tri_acc_background 0KepOnlineObjectsPack_Postinits
 
 key tri_acc_pedastal editor_rigblocks~!tri_acc_pedastal
 key POSTINIT-Editor_Rigblocks-tri_acc_pedastal 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-tri_acc_pedastal
+
+key cl_editor_base_level0 editor_rigblocks~!cl_editor_base_level0
+key POSTINIT-Editor_Rigblocks-cl_editor_base_level0 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-cl_editor_base_level0
+
+key cl_editor_base_level1 editor_rigblocks~!cl_editor_base_level1
+key POSTINIT-Editor_Rigblocks-cl_editor_base_level1 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-cl_editor_base_level1
+
+key cl_editor_base_level2 editor_rigblocks~!cl_editor_base_level2
+key POSTINIT-Editor_Rigblocks-cl_editor_base_level2 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-cl_editor_base_level2
+
+key cl_editor_base_level3 editor_rigblocks~!cl_editor_base_level3
+key POSTINIT-Editor_Rigblocks-cl_editor_base_level3 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-cl_editor_base_level3
+
+key cl_editor_base_level4 editor_rigblocks~!cl_editor_base_level4
+key POSTINIT-Editor_Rigblocks-cl_editor_base_level4 0KepOnlineObjectsPack_Postinits!POSTINIT-Editor_Rigblocks-cl_editor_base_level4
