@@ -1649,7 +1649,7 @@ PedestalZealot~	0xd7768f78
 BlackCloudTamaranianHopper~	0x704c185b
 ICBMRemains~	0xd1bf030c
 PickupTerraformTool~	0x56c15a5c
-FirepitRocks~	0xee824837
+Creature_Firepit_Rocks
 SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba
 Tube~	0x34d1a971
