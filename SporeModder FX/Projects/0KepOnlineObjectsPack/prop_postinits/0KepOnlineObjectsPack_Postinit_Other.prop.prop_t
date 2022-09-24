@@ -56,7 +56,7 @@ string8s postinitList
 	"sg_rare_geodes_08 POSTINIT-Other-sg_rare_geodes_08"
 	"sg_rare_geodes_09 POSTINIT-Other-sg_rare_geodes_09"
 	"sg_rare_geodes_10 POSTINIT-Other-sg_rare_geodes_10"
-	"FirepitRocks POSTINIT-Other-FirepitRocks"
+	"Creature_Firepit_Rocks POSTINIT-Other-Creature_Firepit_Rocks"
 	"be_effect_details_gear_01 POSTINIT-Other-be_effect_details_gear_01"
 	"be_effect_details_gear_04 POSTINIT-Other-be_effect_details_gear_04"
 	"be_effect_details_radar_01 POSTINIT-Other-be_effect_details_radar_01"
@@ -242,8 +242,8 @@ key POSTINIT-Other-sg_rare_geodes_09 0KepOnlineObjectsPack_Postinits!POSTINIT-Ot
 key sg_rare_geodes_10 sg_rare_geodes_10
 key POSTINIT-Other-sg_rare_geodes_10 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_rare_geodes_10
 
-key FirepitRocks FirepitRocks~
-key POSTINIT-Other-FirepitRocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-FirepitRocks
+key Creature_Firepit_Rocks Creature_Firepit_Rocks
+key POSTINIT-Other-Creature_Firepit_Rocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Creature_Firepit_Rocks
 
 key be_effect_details_gear_01 be_effect_details_gear_01
 key POSTINIT-Other-be_effect_details_gear_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-be_effect_details_gear_01
