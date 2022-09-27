@@ -7,11 +7,4 @@ keys browserFilterChildrenFilters
 	FixedObjects
 
 	FixedObjectGameplay
-
-	#<0KepOnlineObjectsPack_Creature_Parts_Sence
-	0KepOnlineObjectsPack_Creature_Parts_Graspers
-	0KepOnlineObjectsPack_Creature_Parts_Feet
-	0KepOnlineObjectsPack_Creature_Parts_Weapon
-	0KepOnlineObjectsPack_Creature_Parts_Detail
-	0KepOnlineObjectsPack_Creature_Parts_GroB#>
 end

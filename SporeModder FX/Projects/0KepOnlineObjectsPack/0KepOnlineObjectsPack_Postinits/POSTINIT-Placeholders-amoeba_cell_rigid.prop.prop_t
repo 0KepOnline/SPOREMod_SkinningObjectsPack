@@ -1,5 +1,5 @@
 key sporepediaAssetType FixedObjectStaticObject
-key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Editor_Backgrounds.png
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Placeholders.png
 texts sporepediaName
 	"amoeba_cell_rigid"
 end

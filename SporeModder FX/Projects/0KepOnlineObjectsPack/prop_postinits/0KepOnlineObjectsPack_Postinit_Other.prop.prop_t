@@ -33,7 +33,6 @@ string8s postinitList
 	"ci_gambling_cup_blue POSTINIT-Other-ci_gambling_cup_blue"
 	"ci_gambling_cup_red POSTINIT-Other-ci_gambling_cup_red"
 	"ci_gambling_cup_yellow POSTINIT-Other-ci_gambling_cup_yellow"
-	#"ci_harvest_balloon POSTINIT-Other-ci_harvest_balloon"
 	"ci_lottery POSTINIT-Other-ci_lottery"
 	"ci_megaphone POSTINIT-Other-ci_megaphone"
 	"BlackCloudTamaranianHopper POSTINIT-Other-BlackCloudTamaranianHopper"
@@ -67,6 +66,7 @@ string8s postinitList
 	"CRG_Skeleton_Destructed_04 POSTINIT-Other-CRG_Skeleton_Destructed_04"
 	"SeaUrchin POSTINIT-Other-SeaUrchin"
 	"Materials POSTINIT-Other-Materials"
+	"ToolCapsule POSTINIT-Other-ToolCapsule"
 end
 
 
@@ -173,9 +173,6 @@ key POSTINIT-Other-ci_gambling_cup_red 0KepOnlineObjectsPack_Postinits!POSTINIT-
 key ci_gambling_cup_yellow ci_gambling_cup_yellow
 key POSTINIT-Other-ci_gambling_cup_yellow 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_gambling_cup_yellow
 
-#<key ci_harvest_balloon ci_harvest_balloon
-key POSTINIT-Other-ci_harvest_balloon 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_harvest_balloon#>
-
 key ci_lottery ci_lottery
 key POSTINIT-Other-ci_lottery 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_lottery
 
@@ -274,3 +271,6 @@ key POSTINIT-Other-SeaUrchin 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-SeaU
 
 key Materials Materials~
 key POSTINIT-Other-Materials 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Materials
+
+key ToolCapsule ToolCapsule~
+key POSTINIT-Other-ToolCapsule 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ToolCapsule

@@ -1,0 +1,6 @@
+key parent AssetBrowserFeedItems!keylist_Template.prop
+uint32 feedListItemGroupID hash(food)
+key feedListItemIconKey PlannerThumbnails!ep1_hh_platter_fruit_03.png
+texts feedListItemName
+	(0KepOnlineObjectsPack!0x0000000a) "Food"
+end

@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Tribe_Tools.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Food!0x00000014) "Pile Meat Large"
+end
+bool sporepediaShow true

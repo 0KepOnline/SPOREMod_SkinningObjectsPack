@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Food!0x00000022) "Seaweed Platter Small"
+end
+bool sporepediaShow true

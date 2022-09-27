@@ -1,3 +1,11 @@
+#<
+Universal Property Enhancer (U.P.E.) postinit used here to prevent showing empty feed items if it wasn't installed.
+Instead, the player will see a dummy item 'AssetBrowserFeedItems!0KepOnlineObjectsPack_Error.prop' in the mod category.
+It is the only item mentioned in 'AssetBrowserFeedCategories!0KepOnlineObjectsPack.prop' feedListItems property,
+'prop_postinits!0KepOnlineObjectsPack_Postinit_AssetBrowserFeedCategory.prop' rewrites this property with the main one
+(which is in '0KepOnlineObjectsPack_Postinits!POSTINIT-AssetBrowserFeedCategory.prop' file).
+#>
+
 string8s postinitList
 	"AssetBrowserFeedCategory POSTINIT-AssetBrowserFeedCategory"
 end

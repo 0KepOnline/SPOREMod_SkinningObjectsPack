@@ -14,6 +14,7 @@ string8s postinitList
 	"genericmeat_03 POSTINIT-Placeholders-genericmeat_03"
 	"L0_spiky_guy POSTINIT-Placeholders-L0_spiky_guy"
 	"sg_ufo_ice_comet POSTINIT-Placeholders-sg_ufo_ice_comet"
+	"CG_airBubble POSTINIT-Placeholders-CG_airBubble"
 end
 
 
@@ -62,3 +63,6 @@ key POSTINIT-Placeholders-L0_spiky_guy 0KepOnlineObjectsPack_Postinits!POSTINIT-
 
 key sg_ufo_ice_comet placeholder!sg_ufo_ice_comet
 key POSTINIT-Placeholders-sg_ufo_ice_comet 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-sg_ufo_ice_comet
+
+key CG_airBubble placeholder!CG_airBubble
+key POSTINIT-Placeholders-CG_airBubble 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-CG_airBubble

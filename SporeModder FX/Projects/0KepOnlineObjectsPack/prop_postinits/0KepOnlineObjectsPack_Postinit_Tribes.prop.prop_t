@@ -28,6 +28,8 @@ string8s postinitList
 	"trg-suirhorn2 POSTINIT-Tribes-trg-suirhorn2"
 	"trg-suirhorn3 POSTINIT-Tribes-trg-suirhorn3"
 	"Tube POSTINIT-Tribes-Tube"
+	"trg_totem_pole1 POSTINIT-Tribes-trg_totem_pole1"
+	"trg_totem_pole2 POSTINIT-Tribes-trg_totem_pole2"
 end
 
 
@@ -118,3 +120,9 @@ key POSTINIT-Tribes-trg-suirhorn3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe
 
 key Tube TribalTools!Tube~
 key POSTINIT-Tribes-Tube 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-Tube
+
+key trg_totem_pole1 TribalTools!trg_totem_pole1
+key POSTINIT-Tribes-trg_totem_pole1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_pole1
+
+key trg_totem_pole2 TribalTools!trg_totem_pole2
+key POSTINIT-Tribes-trg_totem_pole2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_pole2

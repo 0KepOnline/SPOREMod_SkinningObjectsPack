@@ -1,0 +1,152 @@
+string8s postinitList
+	"platter_egg_00 POSTINIT-Food-platter_egg_00"
+	"trg_babyfeed POSTINIT-Food-trg_babyfeed"
+	"trg_domesticfeed POSTINIT-Food-trg_domesticfeed"
+	"foodpile_egg_01 POSTINIT-Food-foodpile_egg_01"
+	"foodpile_egg_02 POSTINIT-Food-foodpile_egg_02"
+	"foodpile_egg_03 POSTINIT-Food-foodpile_egg_03"
+	"foodpile_egg_04 POSTINIT-Food-foodpile_egg_04"
+	"foodpile_egg_05 POSTINIT-Food-foodpile_egg_05"
+	"foodpile_fish_01 POSTINIT-Food-foodpile_fish_01"
+	"foodpile_fish_02 POSTINIT-Food-foodpile_fish_02"
+	"foodpile_fish_03 POSTINIT-Food-foodpile_fish_03"
+	"foodpile_fish_04 POSTINIT-Food-foodpile_fish_04"
+	"foodpile_fruit_01 POSTINIT-Food-foodpile_fruit_01"
+	"foodpile_fruit_02 POSTINIT-Food-foodpile_fruit_02"
+	"foodpile_fruit_03 POSTINIT-Food-foodpile_fruit_03"
+	"foodpile_fruit_04 POSTINIT-Food-foodpile_fruit_04"
+	"foodpile_meat_01 POSTINIT-Food-foodpile_meat_01"
+	"foodpile_meat_02 POSTINIT-Food-foodpile_meat_02"
+	"foodpile_meat_03 POSTINIT-Food-foodpile_meat_03"
+	"foodpile_meat_04 POSTINIT-Food-foodpile_meat_04"
+	"foodpile_seaweed_01 POSTINIT-Food-foodpile_seaweed_01"
+	"foodpile_seaweed_02 POSTINIT-Food-foodpile_seaweed_02"
+	"foodpile_seaweed_03 POSTINIT-Food-foodpile_seaweed_03"
+	"foodpile_seaweed_04 POSTINIT-Food-foodpile_seaweed_04"
+	"foodpile_seaweed_05 POSTINIT-Food-foodpile_seaweed_05"
+	"platter_egg_01 POSTINIT-Food-platter_egg_01"
+	"platter_egg_02 POSTINIT-Food-platter_egg_02"
+	"platter_fish_01 POSTINIT-Food-platter_fish_01"
+	"platter_fish_02 POSTINIT-Food-platter_fish_02"
+	"platter_fruit_01 POSTINIT-Food-platter_fruit_01"
+	"platter_fruit_02 POSTINIT-Food-platter_fruit_02"
+	"platter_meat_01 POSTINIT-Food-platter_meat_01"
+	"platter_meat_02 POSTINIT-Food-platter_meat_02"
+	"platter_seaweed_01 POSTINIT-Food-platter_seaweed_01"
+	"platter_seaweed_02 POSTINIT-Food-platter_seaweed_02"
+	"platter_seaweed_03 POSTINIT-Food-platter_seaweed_03"
+	"StolenFood POSTINIT-Food-StolenFood"
+end
+
+
+
+key platter_egg_00 food!platter_egg_00
+key POSTINIT-Food-platter_egg_00 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_egg_00
+
+key trg_babyfeed food!trg_babyfeed
+key POSTINIT-Food-trg_babyfeed 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-trg_babyfeed
+
+key trg_domesticfeed food!trg_domesticfeed
+key POSTINIT-Food-trg_domesticfeed 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-trg_domesticfeed
+
+key foodpile_egg_01 food!foodpile_egg_01
+key POSTINIT-Food-foodpile_egg_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_egg_01
+
+key foodpile_egg_02 food!foodpile_egg_02
+key POSTINIT-Food-foodpile_egg_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_egg_02
+
+key foodpile_egg_03 food!foodpile_egg_03
+key POSTINIT-Food-foodpile_egg_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_egg_03
+
+key foodpile_egg_04 food!foodpile_egg_04
+key POSTINIT-Food-foodpile_egg_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_egg_04
+
+key foodpile_egg_05 food!foodpile_egg_05
+key POSTINIT-Food-foodpile_egg_05 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_egg_05
+
+key foodpile_fish_01 food!foodpile_fish_01
+key POSTINIT-Food-foodpile_fish_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fish_01
+
+key foodpile_fish_02 food!foodpile_fish_02
+key POSTINIT-Food-foodpile_fish_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fish_02
+
+key foodpile_fish_03 food!foodpile_fish_03
+key POSTINIT-Food-foodpile_fish_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fish_03
+
+key foodpile_fish_04 food!foodpile_fish_04
+key POSTINIT-Food-foodpile_fish_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fish_04
+
+key foodpile_fruit_01 food!foodpile_fruit_01
+key POSTINIT-Food-foodpile_fruit_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fruit_01
+
+key foodpile_fruit_02 food!foodpile_fruit_02
+key POSTINIT-Food-foodpile_fruit_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fruit_02
+
+key foodpile_fruit_03 food!foodpile_fruit_03
+key POSTINIT-Food-foodpile_fruit_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fruit_03
+
+key foodpile_fruit_04 food!foodpile_fruit_04
+key POSTINIT-Food-foodpile_fruit_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_fruit_04
+
+key foodpile_meat_01 food!foodpile_meat_01
+key POSTINIT-Food-foodpile_meat_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_meat_01
+
+key foodpile_meat_02 food!foodpile_meat_02
+key POSTINIT-Food-foodpile_meat_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_meat_02
+
+key foodpile_meat_03 food!foodpile_meat_03
+key POSTINIT-Food-foodpile_meat_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_meat_03
+
+key foodpile_meat_04 food!foodpile_meat_04
+key POSTINIT-Food-foodpile_meat_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_meat_04
+
+key foodpile_seaweed_01 food!foodpile_seaweed_01
+key POSTINIT-Food-foodpile_seaweed_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_seaweed_01
+
+key foodpile_seaweed_02 food!foodpile_seaweed_02
+key POSTINIT-Food-foodpile_seaweed_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_seaweed_02
+
+key foodpile_seaweed_03 food!foodpile_seaweed_03
+key POSTINIT-Food-foodpile_seaweed_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_seaweed_03
+
+key foodpile_seaweed_04 food!foodpile_seaweed_04
+key POSTINIT-Food-foodpile_seaweed_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_seaweed_04
+
+key foodpile_seaweed_05 food!foodpile_seaweed_05
+key POSTINIT-Food-foodpile_seaweed_05 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-foodpile_seaweed_05
+
+key platter_egg_01 food!platter_egg_01
+key POSTINIT-Food-platter_egg_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_egg_01
+
+key platter_egg_02 food!platter_egg_02
+key POSTINIT-Food-platter_egg_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_egg_02
+
+key platter_fish_01 food!platter_fish_01
+key POSTINIT-Food-platter_fish_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_fish_01
+
+key platter_fish_02 food!platter_fish_02
+key POSTINIT-Food-platter_fish_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_fish_02
+
+key platter_fruit_01 food!platter_fruit_01
+key POSTINIT-Food-platter_fruit_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_fruit_01
+
+key platter_fruit_02 food!platter_fruit_02
+key POSTINIT-Food-platter_fruit_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_fruit_02
+
+key platter_meat_01 food!platter_meat_01
+key POSTINIT-Food-platter_meat_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_meat_01
+
+key platter_meat_02 food!platter_meat_02
+key POSTINIT-Food-platter_meat_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_meat_02
+
+key platter_seaweed_01 food!platter_seaweed_01
+key POSTINIT-Food-platter_seaweed_01 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_seaweed_01
+
+key platter_seaweed_02 food!platter_seaweed_02
+key POSTINIT-Food-platter_seaweed_02 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_seaweed_02
+
+key platter_seaweed_03 food!platter_seaweed_03
+key POSTINIT-Food-platter_seaweed_03 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-platter_seaweed_03
+
+key StolenFood food!StolenFood~
+key POSTINIT-Food-StolenFood 0KepOnlineObjectsPack_Postinits!POSTINIT-Food-StolenFood

@@ -1,12 +1,19 @@
+#<
+Universal Property Enhancer (U.P.E.) postinit used here to prevent showing empty feed items if it wasn't installed.
+Instead, the player will see a dummy item 'AssetBrowserFeedItems!0KepOnlineObjectsPack_Error.prop' in the mod category.
+It is the only item mentioned in 'AssetBrowserFeedCategories!0KepOnlineObjectsPack.prop' feedListItems property,
+'prop_postinits!0KepOnlineObjectsPack_Postinit_AssetBrowserFeedCategory.prop' rewrites this property with the main one
+(which is in '0KepOnlineObjectsPack_Postinits!POSTINIT-AssetBrowserFeedCategory.prop' file).
+#>
+
 keys feedListItems
 	0KepOnlineObjectsPack_Tribe_Tools
 	0KepOnlineObjectsPack_Tribes
 	0KepOnlineObjectsPack_City_Walls
 	0KepOnlineObjectsPack_Cities
-	#0KepOnlineObjectsPack_Creature_Parts
 	0KepOnlineObjectsPack_Planet_Assets
+	0KepOnlineObjectsPack_Food
 	0KepOnlineObjectsPack_Editor_Rigblocks
 	0KepOnlineObjectsPack_Placeholders
 	0KepOnlineObjectsPack_Other
-	#tmp
 end
