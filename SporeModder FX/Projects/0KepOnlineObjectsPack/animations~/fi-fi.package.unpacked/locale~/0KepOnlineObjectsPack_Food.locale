@@ -1,0 +1,37 @@
+0x00000001 Tyhjä lautanen
+0x00000002 Vauvanruoka
+0x00000003 Kesytysluu
+0x00000004 Muna
+0x00000005 Munakasa - pieni
+0x00000006 Munakasa - keskikokoinen
+0x00000007 Munakasa - suuri
+0x00000008 Munakasa - valtava
+0x00000009 Kala
+0x0000000a Kalakasa - pieni
+0x0000000b Kalakasa - keskikokoinen
+0x0000000c Kalakasa - suuri
+0x0000000d Hedelmä
+0x0000000e Hedelmäkasa - pieni
+0x0000000f Hedelmäkasa - keskikokoinen
+0x00000010 Hedelmäkasa - suuri
+0x00000011 Liha
+0x00000012 Lihakasa - pieni
+0x00000013 Lihakasa - keskikokoinen
+0x00000014 Lihakasa - suuri
+0x00000015 Merilevä
+0x00000016 Merileväkasa - pieni
+0x00000017 Merileväkasa - keskikokoinen
+0x00000018 Merileväkasa - suuri
+0x00000019 Merileväkasa - valtava
+0x0000001a Munalautanen - pieni
+0x0000001b Munalautanen - keskikokoinen
+0x0000001c Kalalautanen - pieni
+0x0000001d Kalalautanen - keskikokoinen
+0x0000001e Hedelmälautanen - pieni
+0x0000001f Hedelmälautanen - keskikokoinen
+0x00000020 Lihalautanen - pieni
+0x00000021 Lihalautanen - keskikokoinen
+0x00000022 Merilevälautanen - pieni
+0x00000023 Merilevälautanen - keskikokoinen
+0x00000024 Merilevälautanen - suuri
+0x00000025 Varastettu ruoka
