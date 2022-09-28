@@ -1,6 +1,0 @@
-key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_Feet
-key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureAnimal.png
-texts sporepediaName
-	(CreatureRigblocks!0xc5d43f60) "Foot"
-end
-bool sporepediaShow true

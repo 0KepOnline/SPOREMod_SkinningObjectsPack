@@ -1,6 +1,0 @@
-key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_Sence
-key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureAnimal.png
-texts sporepediaName
-	(CreatureRigblocks!0x4b1ae65c) "Sense"
-end
-bool sporepediaShow true

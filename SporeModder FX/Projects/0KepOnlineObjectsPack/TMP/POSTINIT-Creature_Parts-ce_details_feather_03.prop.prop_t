@@ -1,6 +1,0 @@
-key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_Detail
-key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureAnimal.png
-texts sporepediaName
-	(CreatureRigblocks!0xcb72e9aa) "Detail"
-end
-bool sporepediaShow true

@@ -1,8 +1,0 @@
-key parent AssetBrowserFeedItems!keylist_Template.prop
-uint32 feedListItemGroupID 0x40626000 # creature_rigblock~
-key feedListItemIconKey CreaturePartIcons~!ce_sense_eye_stalk_03-symmetric.png
-texts feedListItemName
-	(0KepOnlineObjectsPack!0x00000004) "Creature Parts"
-end
-key feedListItemRootFilterID 0KepOnlineObjectsPack_Creature_Parts
-key feedListItemSelectedFilterID ScenarioGameplaySkinning_Filter~

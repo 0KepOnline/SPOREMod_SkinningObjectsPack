@@ -1,6 +1,0 @@
-key sporepediaAssetType 0KepOnlineObjectsPack_Creature_Parts_Weapon
-key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_CreatureAnimal.png
-texts sporepediaName
-	(CreatureRigblocks!0x44b1ede1) "Weapon"
-end
-bool sporepediaShow true

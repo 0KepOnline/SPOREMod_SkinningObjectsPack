@@ -1,6 +1,0 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
-key browserFilterButtonAtlasedIconID 0x41464100!0KepOnlineObjectsPack_Filter_GroB
-key browserFilterData 0KepOnlineObjectsPack_Creature_Parts_GroB
-texts browserFilterName
-	(0x04dc2f94!0xb53da89f) "GroB"
-end

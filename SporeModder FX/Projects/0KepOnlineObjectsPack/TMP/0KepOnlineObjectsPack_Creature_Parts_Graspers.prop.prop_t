@@ -1,6 +1,0 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
-key browserFilterButtonAtlasedIconID 0x41464100!0KepOnlineObjectsPack_Filter_Graspers
-key browserFilterData 0KepOnlineObjectsPack_Creature_Parts_Graspers
-texts browserFilterName
-	(CE!ce_category_graspers) "Graspers"
-end
