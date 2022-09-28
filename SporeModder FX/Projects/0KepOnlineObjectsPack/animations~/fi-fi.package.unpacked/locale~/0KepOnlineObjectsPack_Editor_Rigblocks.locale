@@ -1,0 +1,37 @@
+0x00000001 Kapteeniasustamo - tausta
+0x00000002 Kapteeniasustamo - perusta
+0x00000003 Rakennuseditori - yötausta
+0x00000004 Rakennuseditori - matala perusta
+0x00000005 Rakennuseditori - korkea perusta
+0x00000006 Rakennuseditori - päivätausta
+0x00000007 Otuseditori - Ufotausta
+0x00000008 Otuseditori - Tuomioperusta
+0x00000009 Otuseditori - Tuomiotausta
+0x0000000a Otuseditori - Perusta
+0x0000000b Otuseditori - Tausta
+0x0000000c Sivilisaatioasustamo - Tausta
+0x0000000d Sivilisaatioasustamo - Perusta
+0x0000000e Varhainen otuseditori - Tausta
+0x0000000f Solueditori - Tausta
+0x00000010 Kasvinäkymä - Tausta
+0x00000011 Planeettanäkymä - Tausta
+0x00000012 Avaruusasustamo - Tausta
+0x00000013 Avaruusasustamo - Perusta
+0x00000014 Ilma-ajoneuvoeditori - Perusta
+0x00000015 Ilma-ajoneuvoeditori - Tausta
+0x00000016 Ajoneuvoeditori - Tausta
+0x00000017 Maa-ajoneuvoeditori - Perusta
+0x00000018 Maa-ajoneuvoeditori - Tausta
+0x00000019 Avaruusaluseditori - Perusta
+0x0000001a Avaruusaluseditori - Tausta
+0x0000001b Vesiajoneuvoeditori - Tausta
+0x0000001c Otusnäkymä - Tausta
+0x0000001d Otuseditori - Testiperusta
+0x0000001e Varhainen otuseditori - Perusta
+0x0000001f Heimoasustamo - Tausta
+0x00000020 Heimoasustamo - Perusta
+0x00000021 Solueditori - Tason 1 perusta
+0x00000022 Solueditori - Tason 2 perusta
+0x00000023 Solueditori - Tason 3 perusta
+0x00000024 Solueditori - Tason 4 perusta
+0x00000025 Solueditori - Tason 5 perusta
