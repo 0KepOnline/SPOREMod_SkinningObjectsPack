@@ -1,21 +1,21 @@
-0x00000001 Colony
-0x00000002 Colony Docks
-0x00000003 Broken Colony Turret
-0x00000004 Colony Turret
-0x00000005 Religious Large
-0x00000006 Religious
-0x00000007 Religious Docks
-0x00000008 Broken Religious Turret
-0x00000009 Religious Turret
-0x00000010 Economic Large
-0x00000011 Economic
-0x00000012 Economic Docks
-0x00000013 Broken Economic Turret
-0x00000014 Economic Turret
-0x00000015 Grox Turret
-0x00000016 Military Large
-0x00000017 Military
-0x00000018 Military Docks
-0x00000019 Broken Military Turret
-0x00000020 Military Turret
+0x00000001 Kolonie
+0x00000002 Kolonie Docks
+0x00000003 Zerstörtes Koloniegeschütz
+0x00000004 Koloniegeschütz
+0x00000005 Religiös Groß
+0x00000006 Religiös
+0x00000007 Religiös Docks
+0x00000008 Zerstörtes Religionsgeschütz
+0x00000009 Religionsgeschütz
+0x00000010 Wirtschaftlich Groß
+0x00000011 Wirtschaftlich
+0x00000012 Wirtschaftlich Docks
+0x00000013 Zerstörtes Wirtschaftsgeschütz
+0x00000014 Wirtschaftsgeschütz
+0x00000015 Grox Geschütz
+0x00000016 Militärisch Groß
+0x00000017 Militärisch
+0x00000018 Militärisch Docks
+0x00000019 Zerstörtes Militärgeschütz
+0x00000020 Militärgeschütz
 0x00000021 Grox

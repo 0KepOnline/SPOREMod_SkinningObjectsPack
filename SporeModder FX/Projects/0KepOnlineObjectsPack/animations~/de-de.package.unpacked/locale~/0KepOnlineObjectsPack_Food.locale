@@ -1,37 +1,37 @@
-0x00000001 Empty Platter
-0x00000002 Baby Feed
-0x00000003 Domesticate Bone
-0x00000004 Egg
-0x00000005 Pile Egg Small
-0x00000006 Pile Egg Medium
-0x00000007 Pile Egg Large
-0x00000008 Pile Egg Huge
-0x00000009 Fish
-0x0000000a Pile Fish Small
-0x0000000b Pile Fish Medium
-0x0000000c Pile Fish Large
-0x0000000d Fruit
-0x0000000e Pile Fruit Small
-0x0000000f Pile Fruit Medium
-0x00000010 Pile Fruit Large
-0x00000011 Meat
-0x00000012 Pile Meat Small
-0x00000013 Pile Meat Medium
-0x00000014 Pile Meat Large
-0x00000015 Seaweed
-0x00000016 Pile Seaweed Small
-0x00000017 Pile Seaweed Medium
-0x00000018 Pile Seaweed Large
-0x00000019 Pile Seaweed Huge
-0x0000001a Egg Platter Small
-0x0000001b Egg Platter Medium
-0x0000001c Fish Platter Small
-0x0000001d Fish Platter Medium
-0x0000001e Fruit Platter Small
-0x0000001f Fruit Platter Medium
-0x00000020 Meat Platter Small
-0x00000021 Meat Platter Medium
-0x00000022 Seaweed Platter Small
-0x00000023 Seaweed Platter Medium
-0x00000024 Seaweed Platter Large
-0x00000025 Stolen Food
+0x00000001 Leerer Teller
+0x00000002 Babynahrung
+0x00000003 Zähnmungsknochen
+0x00000004 Ei
+0x00000005 Eierhaufen Klein
+0x00000006 Eierhaufen Medium
+0x00000007 Eierhaufen Groß
+0x00000008 Eierhaufen Riesig
+0x00000009 Fisch
+0x0000000a Fischhaufen Klein
+0x0000000b Fischhaufen Medium
+0x0000000c Fischhaufen Groß
+0x0000000d Frucht
+0x0000000e Fruchthaufen Klein
+0x0000000f Fruchthaufen Medium
+0x00000010 Fruchthaufen Groß
+0x00000011 Fleisch
+0x00000012 Fleischhaufen Klein
+0x00000013 Fleischhaufen Medium
+0x00000014 Fleischhaufen Groß
+0x00000015 Seetang
+0x00000016 Seetanghaufen Klein
+0x00000017 Seetanghaufen Medium
+0x00000018 Seetanghaufen Groß
+0x00000019 Seetanghaufen Riesig
+0x0000001a Eiteller Klein
+0x0000001b Eiteller Medium
+0x0000001c Fischteller Klein
+0x0000001d Fischteller Medium
+0x0000001e Fruchtteller Klein
+0x0000001f Fruchtteller Medium
+0x00000020 Fleischteller Klein
+0x00000021 Fleischteller Medium
+0x00000022 Seetangteller Klein
+0x00000023 Seetangteller Medium
+0x00000024 Seetangteller Large
+0x00000025 Gestohlene Nahrung
