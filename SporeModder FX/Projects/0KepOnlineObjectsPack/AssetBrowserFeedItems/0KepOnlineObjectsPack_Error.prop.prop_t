@@ -7,7 +7,7 @@ It is the only item mentioned in 'AssetBrowserFeedCategories!0KepOnlineObjectsPa
 #>
 
 key parent AssetBrowserFeedItems!keylist_Template.prop
-key feedListItemIconKey common~!Error~.png
+key feedListItemIconKey common~!eventlog_warning.png
 texts feedListItemName
 	(0KepOnlineObjectsPack_Error!0x00000000) "No UPE"
 end

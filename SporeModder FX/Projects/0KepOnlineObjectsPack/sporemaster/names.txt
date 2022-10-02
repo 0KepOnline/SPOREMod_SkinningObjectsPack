@@ -1654,6 +1654,6 @@ SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba
 Tube~	0x34d1a971
 trg_domesticfeed
-Error~	0xf7470d8a
+eventlog_warning
 StolenFood~	0x57dc9cd4
 ToolCapsule~	0x061300dc
