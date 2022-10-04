@@ -1,6 +1,6 @@
 key parent AssetBrowserFeedItems!keylist_Template.prop
 uint32 feedListItemGroupID 0x02e4b4cc # citystyles~
-key feedListItemIconKey PlannerThumbnails!Castle.png
+key feedListItemIconKey 0KepOnlineObjectsPack_Assets!FeedListIcon_City_Walls.png
 texts feedListItemName
 	(0KepOnlineObjectsPack!0x00000002) "City Walls"
 end

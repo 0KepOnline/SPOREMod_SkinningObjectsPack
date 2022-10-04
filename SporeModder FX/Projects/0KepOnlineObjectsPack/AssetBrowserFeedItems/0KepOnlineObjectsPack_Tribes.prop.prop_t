@@ -1,6 +1,6 @@
 key parent AssetBrowserFeedItems!keylist_Template.prop
 uint32 feedListItemGroupID hash(TribalTools)
-key feedListItemIconKey PlannerThumbnails!tt_civ_firepit_home_03.png
+key feedListItemIconKey AssetBrowserGraphics!spg_feedicon_trg.png
 texts feedListItemName
 	(0KepOnlineObjectsPack!0x00000009) "Tribes"
 end
