@@ -4,3 +4,5 @@ key feedListItemIconKey 0KepOnlineObjectsPack_Assets!FeedListIcon_Other.png
 texts feedListItemName
 	(0KepOnlineObjectsPack!0x00000008) "Other"
 end
+key feedListItemRootFilterID 0KepOnlineObjectsPack_Other
+key feedListItemSelectedFilterID 0KepOnlineObjectsPack_Other

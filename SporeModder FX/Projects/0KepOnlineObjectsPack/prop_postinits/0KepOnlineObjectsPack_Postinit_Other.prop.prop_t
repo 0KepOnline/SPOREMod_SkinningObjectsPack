@@ -67,6 +67,18 @@ string8s postinitList
 	"SeaUrchin POSTINIT-Other-SeaUrchin"
 	"Materials POSTINIT-Other-Materials"
 	"ToolCapsule POSTINIT-Other-ToolCapsule"
+	"cr_blocky_small POSTINIT-Other-cr_blocky_small"
+	"cr_blocky_medium POSTINIT-Other-cr_blocky_medium"
+	"cr_rounded_small POSTINIT-Other-cr_rounded_small"
+	"cr_rounded_medium POSTINIT-Other-cr_rounded_medium"
+	"cr_holes_small POSTINIT-Other-cr_holes_small"
+	"cr_holes_medium POSTINIT-Other-cr_holes_medium"
+	"cr_cylinder_small POSTINIT-Other-cr_cylinder_small"
+	"cr_cylinder_medium POSTINIT-Other-cr_cylinder_medium"
+	"cr_pointy_small POSTINIT-Other-cr_pointy_small"
+	"cr_pointy_medium POSTINIT-Other-cr_pointy_medium"
+	"cr_crystal_small POSTINIT-Other-cr_crystal_small"
+	"cr_crystal_medium POSTINIT-Other-cr_crystal_medium"
 end
 
 
@@ -274,3 +286,39 @@ key POSTINIT-Other-Materials 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Mate
 
 key ToolCapsule ToolCapsule~
 key POSTINIT-Other-ToolCapsule 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ToolCapsule
+
+key cr_blocky_small cr_blocky_small
+key POSTINIT-Other-cr_blocky_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_blocky_small
+
+key cr_blocky_medium cr_blocky_medium
+key POSTINIT-Other-cr_blocky_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_blocky_medium
+
+key cr_rounded_small cr_rounded_small
+key POSTINIT-Other-cr_blocky_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_blocky_small
+
+key cr_rounded_medium cr_rounded_medium
+key POSTINIT-Other-cr_rounded_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_rounded_medium
+
+key cr_holes_small cr_holes_small
+key POSTINIT-Other-cr_holes_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_holes_small
+
+key cr_holes_medium cr_holes_medium
+key POSTINIT-Other-cr_holes_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_holes_medium
+
+key cr_cylinder_small cr_cylinder_small
+key POSTINIT-Other-cr_cylinder_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_cylinder_small
+
+key cr_cylinder_medium cr_cylinder_medium
+key POSTINIT-Other-cr_cylinder_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_cylinder_medium
+
+key cr_pointy_small cr_pointy_small
+key POSTINIT-Other-cr_pointy_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_pointy_small
+
+key cr_pointy_medium cr_pointy_medium
+key POSTINIT-Other-cr_pointy_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_pointy_medium
+
+key cr_crystal_small cr_crystal_small
+key POSTINIT-Other-cr_crystal_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_crystal_small
+
+key cr_crystal_medium cr_crystal_medium
+key POSTINIT-Other-cr_crystal_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_crystal_medium

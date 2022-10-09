@@ -1,0 +1,4 @@
+key parent AssetBrowserFilter!FixedObjectCanBeHeld.prop
+key browserFilterData 0KepOnlineObjectsPack_Other_Handheld
+
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectCanBeHeld

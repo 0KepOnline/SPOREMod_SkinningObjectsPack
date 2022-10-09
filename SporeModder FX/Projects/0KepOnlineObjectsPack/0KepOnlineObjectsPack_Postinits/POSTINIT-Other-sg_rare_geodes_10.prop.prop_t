@@ -1,4 +1,4 @@
-key sporepediaAssetType FixedObjectStaticObject
+key sporepediaAssetType 0KepOnlineObjectsPack_Other_Static
 key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
 texts sporepediaName
 	(0KepOnlineObjectsPack_Other!0x00000038) "Geode Black"

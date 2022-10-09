@@ -1,0 +1,12 @@
+texts browserFilterName
+	(sporepediaEP1!0x01021001) "Other"
+end
+
+keys browserFilterChildrenFilters
+	0KepOnlineObjectsPack_Other_Static
+	0KepOnlineObjectsPack_Other_Rock
+	0KepOnlineObjectsPack_Other_Handheld
+	0KepOnlineObjectsPack_Other_Pedestal
+end
+
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjects

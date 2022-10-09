@@ -1,0 +1,17 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key browserFilterData 0KepOnlineObjectsPack_Other_Pedestal
+texts browserFilterName
+	(0KepOnlineObjectsPack_Other!0x10000001) "Pedestals"
+end
+
+keys browserFilterButtonGraphic
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Normal.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Off.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Highlighted.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Normal.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-On-Normal.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Off.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-On-Highlighted.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-On-Normal.png
+	0KepOnlineObjectsPack_Assets!Filter-Pedestal-Off.png
+end
