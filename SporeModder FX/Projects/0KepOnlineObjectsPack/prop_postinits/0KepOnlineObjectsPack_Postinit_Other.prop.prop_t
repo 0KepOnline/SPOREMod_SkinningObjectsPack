@@ -44,7 +44,7 @@ string8s postinitList
 	"sg_comet POSTINIT-Other-sg_comet"
 	"sg_pickup_loot POSTINIT-Other-sg_pickup_loot"
 	"sg_pickup_storybook POSTINIT-Other-sg_pickup_storybook"
-	"PickupTerraformTool POSTINIT-Other-PickupTerraformTool"
+	"SG_pickup_terrainBrush POSTINIT-Other-SG_pickup_terrainBrush"
 	"sg_steve POSTINIT-Other-sg_steve"
 	"sg_rare_geodes_02 POSTINIT-Other-sg_rare_geodes_02"
 	"sg_rare_geodes_03 POSTINIT-Other-sg_rare_geodes_03"
@@ -218,8 +218,8 @@ key POSTINIT-Other-sg_pickup_loot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other
 key sg_pickup_storybook sg_pickup_storybook
 key POSTINIT-Other-sg_pickup_storybook 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_pickup_storybook
 
-key PickupTerraformTool PickupTerraformTool~
-key POSTINIT-Other-PickupTerraformTool 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PickupTerraformTool
+key SG_pickup_terrainBrush SG_pickup_terrainBrush
+key POSTINIT-Other-SG_pickup_terrainBrush 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-SG_pickup_terrainBrush
 
 key sg_steve sg_steve
 key POSTINIT-Other-sg_steve 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_steve

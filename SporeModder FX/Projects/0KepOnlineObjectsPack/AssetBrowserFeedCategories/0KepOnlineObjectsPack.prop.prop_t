@@ -12,6 +12,7 @@ texts feedListCategoryName
 end
 keys feedListItems
 	0KepOnlineObjectsPack_Error
+	tmp
 end
 
 string16 description "V1.1"

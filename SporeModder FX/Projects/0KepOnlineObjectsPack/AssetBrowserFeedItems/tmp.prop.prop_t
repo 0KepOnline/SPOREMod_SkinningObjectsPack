@@ -1,6 +1,6 @@
 key parent AssetBrowserFeedItems!keylist_Template.prop
 uint32 feedListItemGroupID 0x40010000
-key feedListItemIconKey lucky.rw4
+key feedListItemIconKey ep1_powerup_damageBoost.rw4
 texts feedListItemName
 	"PNG-added"
 end

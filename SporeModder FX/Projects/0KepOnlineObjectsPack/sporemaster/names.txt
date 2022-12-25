@@ -1648,7 +1648,7 @@ PedestalMilitary~	0x626123cc
 PedestalZealot~	0xd7768f78
 BlackCloudTamaranianHopper~	0x704c185b
 ICBMRemains~	0xd1bf030c
-PickupTerraformTool~	0x56c15a5c
+SG_pickup_terrainBrush
 Creature_Firepit_Rocks
 SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba
