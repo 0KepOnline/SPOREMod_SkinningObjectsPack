@@ -1646,7 +1646,7 @@ PedestalScientist~	0x210a32f5
 PedestalEconomic~	0x958c8d5e
 PedestalMilitary~	0x626123cc
 PedestalZealot~	0xd7768f78
-BlackCloudTamaranianHopper~	0x704c185b
+ci_black_cloud_beast
 ICBMRemains~	0xd1bf030c
 SG_pickup_terrainBrush
 Creature_Firepit_Rocks

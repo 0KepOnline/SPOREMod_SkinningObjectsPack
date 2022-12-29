@@ -35,7 +35,7 @@ string8s postinitList
 	"ci_gambling_cup_yellow POSTINIT-Other-ci_gambling_cup_yellow"
 	"ci_lottery POSTINIT-Other-ci_lottery"
 	"ci_megaphone POSTINIT-Other-ci_megaphone"
-	"BlackCloudTamaranianHopper POSTINIT-Other-BlackCloudTamaranianHopper"
+	"ci_black_cloud_beast POSTINIT-Other-ci_black_cloud_beast"
 	"ICBMRemains POSTINIT-Other-ICBMRemains"
 	"ci_surrender_religious POSTINIT-Other-ci_surrender_religious"
 	"ci_trumpet POSTINIT-Other-ci_trumpet"
@@ -191,8 +191,8 @@ key POSTINIT-Other-ci_lottery 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_
 key ci_megaphone ci_megaphone
 key POSTINIT-Other-ci_megaphone 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_megaphone
 
-key BlackCloudTamaranianHopper BlackCloudTamaranianHopper~
-key POSTINIT-Other-BlackCloudTamaranianHopper 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-BlackCloudTamaranianHopper
+key ci_black_cloud_beast ci_black_cloud_beast
+key POSTINIT-Other-ci_black_cloud_beast 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_black_cloud_beast
 
 key ICBMRemains ICBMRemains~
 key POSTINIT-Other-ICBMRemains 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ICBMRemains
