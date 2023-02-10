@@ -1639,13 +1639,13 @@ ScenarioGameplaySkinning_Filter~	0xa2570eb1
 ScenarioModeTemplate
 ci_space_citywalls_large_xl_01_decal
 FixedObjectGameplay
-PedestalShaman~	0x78c9bfc3
-PedestalKnight~	0x83d35c0e
-PedestalTrader~	0x0128b5d9
-PedestalScientist~	0x210a32f5
-PedestalEconomic~	0x958c8d5e
-PedestalMilitary~	0x626123cc
-PedestalZealot~	0xd7768f78
+commplat_shaman
+commplat_knight
+commplat_trader
+commplat_scientist
+commplat_econ
+commplat_military
+commplat_zealot
 ci_black_cloud_beast
 ICBMRemains~	0xd1bf030c
 SG_pickup_terrainBrush
