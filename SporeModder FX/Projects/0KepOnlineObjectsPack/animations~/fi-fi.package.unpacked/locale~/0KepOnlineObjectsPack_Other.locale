@@ -67,3 +67,19 @@
 0x00000043 Merisiili
 0x00000044 Rakennusmateriaalit
 0x00000045 Avaruustyökalukapseli
+0x00000046 Lohkokivi - pieni
+0x00000047 Lohkokivi - keskikokoinen
+0x00000048 Pyöreä kivi - pieni
+0x00000049 Pyöreä kivi - keskikokoinen
+0x0000004a Reikäkivi - pieni
+0x0000004b Reikäkivi - keskikokoinen
+0x0000004c Lieriökivi - pieni
+0x0000004d Lieriökivi - keskikokoinen
+0x0000004e Terävä kivi - pieni
+0x0000004f Terävä kivi - keskikokoinen
+0x00000050 Kristallikivi - pieni
+0x00000051 Kristallikivi - keskikokoinen
+
+# Filters
+
+0x10000001 Jalustat
