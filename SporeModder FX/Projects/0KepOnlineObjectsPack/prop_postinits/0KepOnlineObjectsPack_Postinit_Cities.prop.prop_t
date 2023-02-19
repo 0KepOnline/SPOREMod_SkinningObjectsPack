@@ -15,11 +15,11 @@ string8s postinitList
 	"ci_shrine_citywalls_small POSTINIT-Cities-ci_shrine_citywalls_small"
 	"ci_space_gun POSTINIT-Cities-ci_space_gun"
 	"ci_space_gun_destroyed POSTINIT-Cities-ci_space_gun_destroyed"
-	"ColonyDocks POSTINIT-Cities-ColonyDocks"
+	"ci_space_citywalls_large_01_seaport_docks POSTINIT-Cities-ci_space_citywalls_large_01_seaport_docks"
 	"Colony_Walls POSTINIT-Cities-Colony_Walls"
-	"CulturalDocks POSTINIT-Cities-CulturalDocks"
-	"EconomicDocks POSTINIT-Cities-EconomicDocks"
-	"MilitaryDocks POSTINIT-Cities-MilitaryDocks"
+	"ci_shrine_citywalls_small_seaport_docks POSTINIT-Cities-ci_shrine_citywalls_small_seaport_docks"
+	"ci_diplo_citywalls_small_seaport_docks POSTINIT-Cities-ci_diplo_citywalls_small_seaport_docks"
+	"ci_castle_citywalls_small_seaport_docks POSTINIT-Cities-ci_castle_citywalls_small_seaport_docks"
 	"SG_GroB_Walls POSTINIT-Cities-SG_GroB_Walls"
 end
 
@@ -73,20 +73,20 @@ key POSTINIT-Cities-ci_space_gun 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities
 key ci_space_gun_destroyed citystyles_models~!ci_space_gun_destroyed
 key POSTINIT-Cities-ci_space_gun_destroyed 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_space_gun_destroyed
 
-key ColonyDocks citystyles_models~!ColonyDocks~
-key POSTINIT-Cities-ColonyDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ColonyDocks
+key ci_space_citywalls_large_01_seaport_docks citystyles_models~!ci_space_citywalls_large_01_seaport_docks
+key POSTINIT-Cities-ci_space_citywalls_large_01_seaport_docks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_space_citywalls_large_01_seaport_docks
 
 key Colony_Walls citystyles_models~!Colony_Walls
 key POSTINIT-Cities-Colony_Walls 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-Colony_Walls
 
-key CulturalDocks citystyles_models~!CulturalDocks~
-key POSTINIT-Cities-CulturalDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-CulturalDocks
+key ci_shrine_citywalls_small_seaport_docks citystyles_models~!ci_shrine_citywalls_small_seaport_docks
+key POSTINIT-Cities-ci_shrine_citywalls_small_seaport_docks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_shrine_citywalls_small_seaport_docks
 
-key EconomicDocks citystyles_models~!EconomicDocks~
-key POSTINIT-Cities-EconomicDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-EconomicDocks
+key ci_diplo_citywalls_small_seaport_docks citystyles_models~!ci_diplo_citywalls_small_seaport_docks
+key POSTINIT-Cities-ci_diplo_citywalls_small_seaport_docks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_diplo_citywalls_small_seaport_docks
 
-key MilitaryDocks citystyles_models~!MilitaryDocks~
-key POSTINIT-Cities-MilitaryDocks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-MilitaryDocks
+key ci_castle_citywalls_small_seaport_docks citystyles_models~!ci_castle_citywalls_small_seaport_docks
+key POSTINIT-Cities-ci_castle_citywalls_small_seaport_docks 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-ci_castle_citywalls_small_seaport_docks
 
 key SG_GroB_Walls citystyles_models~!SG_GroB_Walls
 key POSTINIT-Cities-SG_GroB_Walls 0KepOnlineObjectsPack_Postinits!POSTINIT-Cities-SG_GroB_Walls

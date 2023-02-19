@@ -29,3 +29,6 @@
 0x0000001d Tube
 0x0000001e Altar Simple
 0x0000001f Altar Improved
+0x00000020 Food Mat Simple
+0x00000021 Food Mat Improved
+0x00000022 Food Mat Enhanced

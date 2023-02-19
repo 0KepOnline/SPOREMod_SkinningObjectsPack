@@ -30,6 +30,9 @@ string8s postinitList
 	"Tube POSTINIT-Tribes-Tube"
 	"trg_totem_pole1 POSTINIT-Tribes-trg_totem_pole1"
 	"trg_totem_pole2 POSTINIT-Tribes-trg_totem_pole2"
+	"trg_totem_foodmat1 POSTINIT-Tribes-trg_totem_foodmat1"
+	"trg_totem_foodmat2 POSTINIT-Tribes-trg_totem_foodmat2"
+	"trg_totem_foodmat3 POSTINIT-Tribes-trg_totem_foodmat3"
 end
 
 
@@ -126,3 +129,12 @@ key POSTINIT-Tribes-trg_totem_pole1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tri
 
 key trg_totem_pole2 TribalTools!trg_totem_pole2
 key POSTINIT-Tribes-trg_totem_pole2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_pole2
+
+key trg_totem_foodmat1 TribalTools!trg_totem_foodmat1
+key POSTINIT-Tribes-trg_totem_foodmat1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_foodmat1
+
+key trg_totem_foodmat2 TribalTools!trg_totem_foodmat2
+key POSTINIT-Tribes-trg_totem_foodmat2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_foodmat2
+
+key trg_totem_foodmat3 TribalTools!trg_totem_foodmat3
+key POSTINIT-Tribes-trg_totem_foodmat3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_foodmat3

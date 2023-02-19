@@ -268,7 +268,7 @@ ce_sense_eye_dino_03-symmetric__specBump
 ce_weapon_range_liquid_01__tintMask
 Gather
 CreatureRigblocks
-CulturalDocks~	0xde17dce0
+ci_shrine_citywalls_small_seaport_docks
 tt_gather_home_03
 CRG_partUnlock_weapon
 ce_weapon_club_03-symmetric
@@ -1073,7 +1073,7 @@ ce_weapon_slasher_04__diffuse
 auto_creature_parts~_ce_movement_bird_02-symmetric
 ce_details_armor_05__diffuse
 ce_sense_ear_top_01-symmetric__specBump
-ColonyDocks~	0x706c1a9b
+ci_space_citywalls_large_01_seaport_docks
 ce_movement_bird_02-symmetric
 ce_sense_eye_stalk_04-symmetric
 ce_grasper_paw_02-symmetric__diffuse
@@ -1099,7 +1099,7 @@ auto_creature_parts~_ce_weapon_antler_02-symmetric
 ce_sense_eye_simple_01-symmetric__diffuse
 auto_creature_parts~_ce_movement_paw_04-symmetric
 auto_creature_parts~_SA_grob_armband
-MilitaryDocks~	0xcb2a5019
+ci_castle_citywalls_small_seaport_docks
 ce_sense_eye_weird_03-symmetric__tintMask
 ce_sense_eye_stalk_01
 ce_sense_eye_stalk_02
@@ -1573,7 +1573,7 @@ ce_details_flora_02__specBump
 SA_grob_foot__tintMask
 auto_creature_parts~_ce_movement_dino_03-symmetric
 auto_citystyles~_Shrine
-EconomicDocks~	0xfeca61b9
+ci_diplo_citywalls_small_seaport_docks
 ep1_gmp_keycardgreen
 ce_grasper_amphibian_04
 auto_0KepOnlineObjectsPack_Assets_Template_Creature_Parts_Weapon
@@ -1639,16 +1639,16 @@ ScenarioGameplaySkinning_Filter~	0xa2570eb1
 ScenarioModeTemplate
 ci_space_citywalls_large_xl_01_decal
 FixedObjectGameplay
-PedestalShaman~	0x78c9bfc3
-PedestalKnight~	0x83d35c0e
-PedestalTrader~	0x0128b5d9
-PedestalScientist~	0x210a32f5
-PedestalEconomic~	0x958c8d5e
-PedestalMilitary~	0x626123cc
-PedestalZealot~	0xd7768f78
-BlackCloudTamaranianHopper~	0x704c185b
+commplat_shaman
+commplat_knight
+commplat_trader
+commplat_scientist
+commplat_econ
+commplat_military
+commplat_zealot
+ci_black_cloud_beast
 ICBMRemains~	0xd1bf030c
-PickupTerraformTool~	0x56c15a5c
+SG_pickup_terrainBrush
 Creature_Firepit_Rocks
 SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba

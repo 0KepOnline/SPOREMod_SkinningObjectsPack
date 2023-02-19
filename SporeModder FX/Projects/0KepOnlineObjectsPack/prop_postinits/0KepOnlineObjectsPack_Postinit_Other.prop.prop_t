@@ -1,11 +1,11 @@
 string8s postinitList
-	"PedestalShaman POSTINIT-Other-PedestalShaman"
-	"PedestalKnight POSTINIT-Other-PedestalKnight"
-	"PedestalTrader POSTINIT-Other-PedestalTrader"
-	"PedestalScientist POSTINIT-Other-PedestalScientist"
-	"PedestalEconomic POSTINIT-Other-PedestalEconomic"
-	"PedestalMilitary POSTINIT-Other-PedestalMilitary"
-	"PedestalZealot POSTINIT-Other-PedestalZealot"
+	"commplat_shaman POSTINIT-Other-commplat_shaman"
+	"commplat_knight POSTINIT-Other-commplat_knight"
+	"commplat_trader POSTINIT-Other-commplat_trader"
+	"commplat_scientist POSTINIT-Other-commplat_scientist"
+	"commplat_econ POSTINIT-Other-commplat_econ"
+	"commplat_military POSTINIT-Other-commplat_military"
+	"commplat_zealot POSTINIT-Other-commplat_zealot"
 	"cr_egg_01_base POSTINIT-Other-cr_egg_01_base"
 	"cr_egg_02_base POSTINIT-Other-cr_egg_02_base"
 	"cr_egg_04_base POSTINIT-Other-cr_egg_04_base"
@@ -35,7 +35,7 @@ string8s postinitList
 	"ci_gambling_cup_yellow POSTINIT-Other-ci_gambling_cup_yellow"
 	"ci_lottery POSTINIT-Other-ci_lottery"
 	"ci_megaphone POSTINIT-Other-ci_megaphone"
-	"BlackCloudTamaranianHopper POSTINIT-Other-BlackCloudTamaranianHopper"
+	"ci_black_cloud_beast POSTINIT-Other-ci_black_cloud_beast"
 	"ICBMRemains POSTINIT-Other-ICBMRemains"
 	"ci_surrender_religious POSTINIT-Other-ci_surrender_religious"
 	"ci_trumpet POSTINIT-Other-ci_trumpet"
@@ -44,7 +44,7 @@ string8s postinitList
 	"sg_comet POSTINIT-Other-sg_comet"
 	"sg_pickup_loot POSTINIT-Other-sg_pickup_loot"
 	"sg_pickup_storybook POSTINIT-Other-sg_pickup_storybook"
-	"PickupTerraformTool POSTINIT-Other-PickupTerraformTool"
+	"SG_pickup_terrainBrush POSTINIT-Other-SG_pickup_terrainBrush"
 	"sg_steve POSTINIT-Other-sg_steve"
 	"sg_rare_geodes_02 POSTINIT-Other-sg_rare_geodes_02"
 	"sg_rare_geodes_03 POSTINIT-Other-sg_rare_geodes_03"
@@ -83,26 +83,26 @@ end
 
 
 
-key PedestalShaman PedestalShaman~
-key POSTINIT-Other-PedestalShaman 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalShaman
+key commplat_shaman commplat_shaman
+key POSTINIT-Other-commplat_shaman 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_shaman
 
-key PedestalKnight PedestalKnight~
-key POSTINIT-Other-PedestalKnight 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalKnight
+key commplat_knight commplat_knight
+key POSTINIT-Other-commplat_knight 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_knight
 
-key PedestalTrader PedestalTrader~
-key POSTINIT-Other-PedestalTrader 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalTrader
+key commplat_trader commplat_trader
+key POSTINIT-Other-commplat_trader 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_trader
 
-key PedestalScientist PedestalScientist~
-key POSTINIT-Other-PedestalScientist 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalScientist
+key commplat_scientist commplat_scientist
+key POSTINIT-Other-commplat_scientist 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_scientist
 
-key PedestalEconomic PedestalEconomic~
-key POSTINIT-Other-PedestalEconomic 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalEconomic
+key commplat_economic commplat_economic
+key POSTINIT-Other-commplat_economic 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_economic
 
-key PedestalMilitary PedestalMilitary~
-key POSTINIT-Other-PedestalMilitary 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalMilitary
+key commplat_military commplat_military
+key POSTINIT-Other-commplat_military 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_military
 
-key PedestalZealot PedestalZealot~
-key POSTINIT-Other-PedestalZealot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PedestalZealot
+key commplat_zealot commplat_zealot
+key POSTINIT-Other-commplat_zealot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-commplat_zealot
 
 key cr_egg_01_base cr_egg_01_base
 key POSTINIT-Other-cr_egg_01_base 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_egg_01_base
@@ -191,8 +191,8 @@ key POSTINIT-Other-ci_lottery 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_
 key ci_megaphone ci_megaphone
 key POSTINIT-Other-ci_megaphone 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_megaphone
 
-key BlackCloudTamaranianHopper BlackCloudTamaranianHopper~
-key POSTINIT-Other-BlackCloudTamaranianHopper 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-BlackCloudTamaranianHopper
+key ci_black_cloud_beast ci_black_cloud_beast
+key POSTINIT-Other-ci_black_cloud_beast 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_black_cloud_beast
 
 key ICBMRemains ICBMRemains~
 key POSTINIT-Other-ICBMRemains 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ICBMRemains
@@ -218,8 +218,8 @@ key POSTINIT-Other-sg_pickup_loot 0KepOnlineObjectsPack_Postinits!POSTINIT-Other
 key sg_pickup_storybook sg_pickup_storybook
 key POSTINIT-Other-sg_pickup_storybook 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_pickup_storybook
 
-key PickupTerraformTool PickupTerraformTool~
-key POSTINIT-Other-PickupTerraformTool 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-PickupTerraformTool
+key SG_pickup_terrainBrush SG_pickup_terrainBrush
+key POSTINIT-Other-SG_pickup_terrainBrush 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-SG_pickup_terrainBrush
 
 key sg_steve sg_steve
 key POSTINIT-Other-sg_steve 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-sg_steve

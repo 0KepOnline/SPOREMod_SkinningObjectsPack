@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
+texts sporepediaName
+	(0KepOnlineObjectsPack_Tribes!0x00000021) "Food Mat Improved"
+end
+bool sporepediaShow true
