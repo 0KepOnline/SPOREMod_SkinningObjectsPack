@@ -1652,7 +1652,7 @@ SG_pickup_terrainBrush
 Creature_Firepit_Rocks
 SeaUrchin~	0xd2fb3278
 Materials~	0xbc160cba
-Tube~	0x34d1a971
+trg_firework_launcher
 trg_domesticfeed
 eventlog_warning
 StolenFood~	0x57dc9cd4

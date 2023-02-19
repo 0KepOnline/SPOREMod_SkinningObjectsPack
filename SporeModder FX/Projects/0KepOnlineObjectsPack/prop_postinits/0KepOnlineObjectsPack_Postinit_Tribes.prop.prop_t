@@ -27,7 +27,7 @@ string8s postinitList
 	"trg-suirhorn1 POSTINIT-Tribes-trg-suirhorn1"
 	"trg-suirhorn2 POSTINIT-Tribes-trg-suirhorn2"
 	"trg-suirhorn3 POSTINIT-Tribes-trg-suirhorn3"
-	"Tube POSTINIT-Tribes-Tube"
+	"trg_firework_launcher POSTINIT-Tribes-trg_firework_launcher"
 	"trg_totem_pole1 POSTINIT-Tribes-trg_totem_pole1"
 	"trg_totem_pole2 POSTINIT-Tribes-trg_totem_pole2"
 	"trg_totem_foodmat1 POSTINIT-Tribes-trg_totem_foodmat1"
@@ -121,8 +121,8 @@ key POSTINIT-Tribes-trg-suirhorn2 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribe
 key trg-suirhorn3 TribalTools!trg-suirhorn3
 key POSTINIT-Tribes-trg-suirhorn3 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg-suirhorn3
 
-key Tube TribalTools!Tube~
-key POSTINIT-Tribes-Tube 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-Tube
+key trg_firework_launcher TribalTools!trg_firework_launcher
+key POSTINIT-Tribes-trg_firework_launcher 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_firework_launcher
 
 key trg_totem_pole1 TribalTools!trg_totem_pole1
 key POSTINIT-Tribes-trg_totem_pole1 0KepOnlineObjectsPack_Postinits!POSTINIT-Tribes-trg_totem_pole1
