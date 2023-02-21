@@ -1,0 +1,6 @@
+key sporepediaAssetType FixedObjectStaticObject
+key sporepediaBackdropImage 0KepOnlineObjectsPack_Assets!Backdrop_Placeholders.png
+texts sporepediaName
+	"L0_swimming_guy"
+end
+bool sporepediaShow true
