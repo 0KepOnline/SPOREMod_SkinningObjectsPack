@@ -26,6 +26,9 @@
 0x0000001a Ansan pohja
 0x0000001b Ansakulho
 0x0000001c Ansatoteemi
-0x0000001d Putki
+0x0000001d Ilotulituslaukaisin
 0x0000001e Alttari - yksinkertainen
 0x0000001f Alttari - paranneltu
+0x00000020 Ruokamatto - yksinkertainen
+0x00000021 Ruokamatto - paranneltu
+0x00000022 Ruokamatto - edistynyt

@@ -26,4 +26,9 @@
 0x0000001a Falle Basis
 0x0000001b Falle Schüssel
 0x0000001c Falle Totem
-0x0000001d Rohr
+0x0000001d Feuerwerkswerfer
+0x0000001e Altar Einfach
+0x0000001f Altar Verbessert
+0x00000020 Futtermatte Einfach
+0x00000021 Futtermatte Verbessert
+0x00000022 Futtermatte Erweitert
