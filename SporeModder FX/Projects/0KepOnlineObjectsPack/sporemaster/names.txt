@@ -1635,7 +1635,7 @@ SquareArrow~	0x004f808a
 generic_SpaceLavaRock~	0x4448a8bf
 generic_SpaceRock~	0x955fd76f
 generic_SpaceIceRock~	0x9faed750
-ScenarioGameplaySkinning_Filter~	0xa2570eb1
+GameplayObjectSkinning
 ScenarioModeTemplate
 ci_space_citywalls_large_xl_01_decal
 FixedObjectGameplay

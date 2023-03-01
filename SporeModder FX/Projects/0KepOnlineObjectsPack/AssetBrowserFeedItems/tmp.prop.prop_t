@@ -4,4 +4,4 @@ key feedListItemIconKey ep1_powerup_damageBoost.rw4
 texts feedListItemName
 	"PNG-added"
 end
-key feedListItemSelectedFilterID ScenarioGameplaySkinning_Filter~
+key feedListItemSelectedFilterID GameplayObjectSkinning

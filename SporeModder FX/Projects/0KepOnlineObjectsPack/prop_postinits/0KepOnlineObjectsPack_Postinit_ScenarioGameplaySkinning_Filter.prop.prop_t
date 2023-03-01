@@ -1,8 +1,8 @@
 string8s postinitList
-	"ScenarioGameplaySkinning_Filter POSTINIT-ScenarioGameplaySkinning_Filter"
+	"GameplayObjectSkinning POSTINIT-GameplayObjectSkinning"
 end
 
 
 
-key ScenarioGameplaySkinning_Filter AssetBrowserFilter!ScenarioGameplaySkinning_Filter~
-key POSTINIT-ScenarioGameplaySkinning_Filter 0KepOnlineObjectsPack_Postinits!POSTINIT-ScenarioGameplaySkinning_Filter
+key GameplayObjectSkinning AssetBrowserFilter!GameplayObjectSkinning
+key POSTINIT-GameplayObjectSkinning 0KepOnlineObjectsPack_Postinits!POSTINIT-GameplayObjectSkinning
