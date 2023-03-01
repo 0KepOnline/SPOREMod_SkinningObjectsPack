@@ -67,19 +67,19 @@
 0x00000043 Seeigel
 0x00000044 Baumateriale
 0x00000045 Weltraumwerkzeugkapsel
-0x00000046 Blocky Rock Small
-0x00000047 Blocky Rock Medium
-0x00000048 Rounded Rock Small
-0x00000049 Rounded Rock Medium
-0x0000004a Holes Rock Small
-0x0000004b Holes Rock Medium
-0x0000004c Cylinder Rock Small
-0x0000004d Cylinder Rock Medium
-0x0000004e Pointy Rock Small
-0x0000004f Pointy Rock Medium
-0x00000050 Crystal Rock Small
-0x00000051 Crystal Rock Medium
+0x00000046 Blockiger Stein Klein
+0x00000047 Blockiger Stein Medium
+0x00000048 Gerundeter Stein Klein
+0x00000049 Gerundeter Stein Medium
+0x0000004a Löchriger Stein Klein
+0x0000004b Löchriger Stein Medium
+0x0000004c Zylinder Stein Klein
+0x0000004d Zylinder Stein Medium
+0x0000004e Spitzer Stein Klein
+0x0000004f Spitzer Stein Medium
+0x00000050 Kristall Stein Klein
+0x00000051 Kristall Stein Medium
 
 # Filters
 
-0x10000001 Pedestals
+0x10000001 Sockel
