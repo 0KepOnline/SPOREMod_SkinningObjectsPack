@@ -1,4 +1,6 @@
+![0KepOnline's Skinning Objects Pack](0KepOnlineObjectsPack.png)
 # 0KepOnline's Skinning Objects Pack
+
 This mod adds a lot of objects to the Adventure Editor. You can use them on gameplay objects in disguise mode.
 
 ![Disguised Mode](DisguisedMode.png)
