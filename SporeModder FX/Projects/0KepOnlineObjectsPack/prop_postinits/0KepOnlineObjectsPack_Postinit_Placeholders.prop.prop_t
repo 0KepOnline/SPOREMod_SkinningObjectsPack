@@ -15,7 +15,6 @@ string8s postinitList
 	"L0_spiky_guy POSTINIT-Placeholders-L0_spiky_guy"
 	"sg_ufo_ice_comet POSTINIT-Placeholders-sg_ufo_ice_comet"
 	"CG_airBubble POSTINIT-Placeholders-CG_airBubble"
-	"L0_swimming_guy POSTINIT-Placeholders-L0_swimming_guy"
 end
 
 
@@ -67,6 +66,3 @@ key POSTINIT-Placeholders-sg_ufo_ice_comet 0KepOnlineObjectsPack_Postinits!POSTI
 
 key CG_airBubble placeholder!CG_airBubble
 key POSTINIT-Placeholders-CG_airBubble 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-CG_airBubble
-
-key L0_swimming_guy placeholder!L0_swimming_guy
-key POSTINIT-Placeholders-L0_swimming_guy 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-L0_swimming_guy

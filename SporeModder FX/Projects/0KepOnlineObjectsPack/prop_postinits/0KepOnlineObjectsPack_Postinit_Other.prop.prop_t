@@ -79,6 +79,7 @@ string8s postinitList
 	"cr_pointy_medium POSTINIT-Other-cr_pointy_medium"
 	"cr_crystal_small POSTINIT-Other-cr_crystal_small"
 	"cr_crystal_medium POSTINIT-Other-cr_crystal_medium"
+	"L0_swimming_guy POSTINIT-Placeholders-L0_swimming_guy"
 end
 
 
@@ -322,3 +323,6 @@ key POSTINIT-Other-cr_crystal_small 0KepOnlineObjectsPack_Postinits!POSTINIT-Oth
 
 key cr_crystal_medium cr_crystal_medium
 key POSTINIT-Other-cr_crystal_medium 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-cr_crystal_medium
+
+key L0_swimming_guy L0_swimming_guy
+key POSTINIT-Placeholders-L0_swimming_guy 0KepOnlineObjectsPack_Postinits!POSTINIT-Placeholders-L0_swimming_guy
