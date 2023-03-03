@@ -64,7 +64,7 @@ string8s postinitList
 	"CRG_Skeleton_Destructed_02 POSTINIT-Other-CRG_Skeleton_Destructed_02"
 	"CRG_Skeleton_Destructed_03 POSTINIT-Other-CRG_Skeleton_Destructed_03"
 	"CRG_Skeleton_Destructed_04 POSTINIT-Other-CRG_Skeleton_Destructed_04"
-	"SeaUrchin POSTINIT-Other-SeaUrchin"
+	"CG_poison_L1 POSTINIT-Other-CG_poison_L1"
 	"Materials POSTINIT-Other-Materials"
 	"ToolCapsule POSTINIT-Other-ToolCapsule"
 	"cr_blocky_small POSTINIT-Other-cr_blocky_small"
@@ -279,8 +279,8 @@ key POSTINIT-Other-CRG_Skeleton_Destructed_03 0KepOnlineObjectsPack_Postinits!PO
 key CRG_Skeleton_Destructed_04 CRG_Skeleton_Destructed_04
 key POSTINIT-Other-CRG_Skeleton_Destructed_04 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CRG_Skeleton_Destructed_04
 
-key SeaUrchin SeaUrchin~
-key POSTINIT-Other-SeaUrchin 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-SeaUrchin
+key CG_poison_L1 CG_poison_L1
+key POSTINIT-Other-CG_poison_L1 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CG_poison_L1
 
 key Materials Materials~
 key POSTINIT-Other-Materials 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Materials

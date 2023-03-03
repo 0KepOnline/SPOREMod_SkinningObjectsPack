@@ -1650,7 +1650,7 @@ ci_black_cloud_beast
 ICBMRemains~	0xd1bf030c
 SG_pickup_terrainBrush
 Creature_Firepit_Rocks
-SeaUrchin~	0xd2fb3278
+CG_poison_L1
 Materials~	0xbc160cba
 trg_firework_launcher
 trg_domesticfeed
