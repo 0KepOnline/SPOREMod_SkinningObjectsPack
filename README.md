@@ -13,7 +13,7 @@ All the adventures made with it are share-safe.
 
 ## Credits
  * [0KepOnline](https://github.com/0KepOnline)	(experimenting with disguising objects and creating this mod)
- * [Liskomato](https://github.com/Tenderi4)		(addind Finnish localization)
+ * [Liskomato](https://github.com/Tenderi4)		(adding Finnish localization)
  * PoliceOfficer07	(adding German localization)
  * [A-xesey](https://github.com/A-xesey)	(creating some stub images)
 
