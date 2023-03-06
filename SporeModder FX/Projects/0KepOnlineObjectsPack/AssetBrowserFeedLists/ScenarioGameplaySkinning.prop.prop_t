@@ -1,9 +1,9 @@
 keys feedListCategories
 	0KepOnlineObjectsPack
 	ScenarioObjects
-	0xA8490AB6
+	Library
 	MyStuff
-	buddies
+	Buddies
 	Sporecasts
 end
 bool feedListHideSingleCategoryHeader false

@@ -7,7 +7,7 @@ bool sporepediaConfigEnableOutfitButton false
 key sporepediaConfigFeedListID ScenarioDefault
 keys sporepediaConfigForceExpandCategories
 	0KepOnlineObjectsPack
-	0xA8490AB6
+	Library
 	MyStuff
 	ScenarioObjects
 end
