@@ -36,7 +36,7 @@ string8s postinitList
 	"ci_lottery POSTINIT-Other-ci_lottery"
 	"ci_megaphone POSTINIT-Other-ci_megaphone"
 	"ci_black_cloud_beast POSTINIT-Other-ci_black_cloud_beast"
-	"ICBMRemains POSTINIT-Other-ICBMRemains"
+	"ci_nuclearRubble POSTINIT-Other-ci_nuclearRubble"
 	"ci_surrender_religious POSTINIT-Other-ci_surrender_religious"
 	"ci_trumpet POSTINIT-Other-ci_trumpet"
 	"civ_sign_lowFood POSTINIT-Other-civ_sign_lowFood"
@@ -195,8 +195,8 @@ key POSTINIT-Other-ci_megaphone 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-c
 key ci_black_cloud_beast ci_black_cloud_beast
 key POSTINIT-Other-ci_black_cloud_beast 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_black_cloud_beast
 
-key ICBMRemains ICBMRemains~
-key POSTINIT-Other-ICBMRemains 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ICBMRemains
+key ci_nuclearRubble ci_nuclearRubble
+key POSTINIT-Other-ci_nuclearRubble 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_nuclearRubble
 
 key ci_surrender_religious ci_surrender_religious
 key POSTINIT-Other-ci_surrender_religious 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ci_surrender_religious

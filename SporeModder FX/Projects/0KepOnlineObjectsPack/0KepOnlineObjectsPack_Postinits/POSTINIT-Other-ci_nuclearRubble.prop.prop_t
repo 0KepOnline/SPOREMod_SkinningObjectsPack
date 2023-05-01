@@ -1,6 +1,6 @@
 key sporepediaAssetType 0KepOnlineObjectsPack_Other_Static
 key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_FixedObjects.png
 texts sporepediaName
-	(0KepOnlineObjectsPack_Other!0x00000027) "ICBM Remains"
+	(0KepOnlineObjectsPack_Other!0x00000027) "Nuclear Rubble"
 end
 bool sporepediaShow true
