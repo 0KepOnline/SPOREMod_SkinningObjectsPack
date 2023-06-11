@@ -1,4 +1,4 @@
-key parent AssetBrowserConfig!0x7FCFA6F0.prop
+key parent AssetBrowserConfig!EP1_ShoppingTemplate.prop
 texts sporepediaConfigCallToActionMessage
 	(sporepediaEP1!0x072925b6) "placeholder"
 end
