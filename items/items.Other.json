@@ -1,0 +1,422 @@
+{
+    "be_effect_details_gear_01": [
+        [
+            "Gear Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "be_effect_details_gear_04": [
+        [
+            "Gear Large",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "be_effect_details_radar_01": [
+        [
+            "Seeker",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CG_poison_L1": [
+        [
+            "Sea Urchin",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "civ_sign_lowFood": [
+        [
+            "Protest Sign",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_black_cloud_beast": [
+        [
+            "Tamaranian Hopper Statuette",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_flag_economic": [
+        [
+            "Economic Sign",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_flag_military": [
+        [
+            "Military Sign",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_flag_religious": [
+        [
+            "Religious Sign",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_gambling_cup_blue": [
+        [
+            "Gambling Cup Blue",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_gambling_cup_red": [
+        [
+            "Gambling Cup Red",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_gambling_cup_yellow": [
+        [
+            "Gambling Cup Yellow",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_lottery": [
+        [
+            "Lottery",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_megaphone": [
+        [
+            "Megaphone",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_nuclearRubble": [
+        [
+            "Nuclear Rubble",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_surrender_religious": [
+        [
+            "Eye of Spode",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "ci_trumpet": [
+        [
+            "Trumpet",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_econ": [
+        [
+            "Pedestal Glorious",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_knight": [
+        [
+            "Pedestal Royal",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_military": [
+        [
+            "Pedestal Military",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_scientist": [
+        [
+            "Pedestal Futuristic",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_shaman": [
+        [
+            "Pedestal Shaman",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_trader": [
+        [
+            "Pedestal Humble",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "commplat_zealot": [
+        [
+            "Pedestal Holy",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "Creature_Firepit_Rocks": [
+        [
+            "Firepit Rocks",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Fruit_Poison": [
+        [
+            "Fruit Poisonous",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Giant_Skeleton_Pillaged": [
+        [
+            "Skeleton Cluster Pillaged",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Skeleton_Destructed_01": [
+        [
+            "Skeleton Pillaged",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Skeleton_Destructed_02": [
+        [
+            "Skeleton Ribcage Pillaged",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Skeleton_Destructed_03": [
+        [
+            "Skeleton Spine Pillaged",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "CRG_Skeleton_Destructed_04": [
+        [
+            "Skeleton Fish Pillaged",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_blocky_medium": [
+        [
+            "Blocky Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_blocky_small": [
+        [
+            "Blocky Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_brain": [
+        [
+            "Brain",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_crystal_medium": [
+        [
+            "Crystal Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_crystal_small": [
+        [
+            "Crystal Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_cylinder_medium": [
+        [
+            "Cylinder Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_cylinder_small": [
+        [
+            "Cylinder Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_01_base": [
+        [
+            "Egg Love",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_02_base": [
+        [
+            "Egg Envy",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_04_base": [
+        [
+            "Egg Solid",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_06_base": [
+        [
+            "Egg Alien",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_07_base": [
+        [
+            "Egg Quark",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_08_base": [
+        [
+            "Egg Sandy",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_egg_10_base": [
+        [
+            "Egg Sassy",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_holes_medium": [
+        [
+            "Holes Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_holes_small": [
+        [
+            "Holes Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_pointy_medium": [
+        [
+            "Pointy Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_pointy_small": [
+        [
+            "Pointy Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_rounded_medium": [
+        [
+            "Rounded Rock Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "cr_rounded_small": [
+        [
+            "Rounded Rock Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "Fruit_Normal_01": [
+        [
+            "Fruit Simplified",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "Fruit_Rotten_01": [
+        [
+            "Fruit Rotten",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "Fruit_Super_01": [
+        [
+            "Fruit Super",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "Materials": [
+        [
+            "Building Materials",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_comet": [
+        [
+            "Comet",
+            "Backdrop_Planet"
+        ]
+    ],
+    "sg_pickup_loot": [
+        [
+            "Medal Money",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_pickup_storybook": [
+        [
+            "Medal Storybook",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "SG_pickup_terrainBrush": [
+        [
+            "Medal Terraform",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_02": [
+        [
+            "Geode Green",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_03": [
+        [
+            "Geode Red",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_04": [
+        [
+            "Geode Blue",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_05": [
+        [
+            "Geode Pink",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_06": [
+        [
+            "Geode Orange",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_07": [
+        [
+            "Geode Gray",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_08": [
+        [
+            "Geode Purple",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_09": [
+        [
+            "Geode Teal",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_rare_geodes_10": [
+        [
+            "Geode Black",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "sg_steve": [
+        [
+            "Steve",
+            "Backdrop_UFO"
+        ]
+    ],
+    "ToolCapsule": [
+        [
+            "Space Tool Capsule",
+            "Backdrop_FixedObjects"
+        ]
+    ]
+}

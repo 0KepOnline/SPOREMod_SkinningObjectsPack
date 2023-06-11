@@ -1,0 +1,134 @@
+{
+    "ci_castle_citywalls_large": [
+        [
+            "Military Large",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_castle_citywalls_small": [
+        [
+            "Military",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_castle_citywalls_small_seaport_docks": [
+        [
+            "Military Docks",
+            "Backdrop_Military_Docks"
+        ]
+    ],
+    "ci_castle_gun": [
+        [
+            "Military Turret",
+            "Backdrop_Military_Turret"
+        ]
+    ],
+    "ci_castle_gun_destroyed": [
+        [
+            "Broken Military Turret",
+            "Backdrop_Military_Turret"
+        ]
+    ],
+    "ci_curvy_gun_destroyed": [
+        [
+            "Broken Economic Turret",
+            "Backdrop_Economic_Turret"
+        ]
+    ],
+    "ci_diplo_citywalls_large": [
+        [
+            "Economic Large",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_diplo_citywalls_small": [
+        [
+            "Economic",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_diplo_citywalls_small_seaport_docks": [
+        [
+            "Economic Docks",
+            "Backdrop_Economic_Docks"
+        ]
+    ],
+    "ci_diplo_gun": [
+        [
+            "Economic Turret",
+            "Backdrop_Economic_Turret"
+        ]
+    ],
+    "ci_diplo_gun_destroyed": [
+        [
+            "Broken Economic Turret",
+            "Backdrop_Economic_Turret"
+        ]
+    ],
+    "ci_grob_gun": [
+        [
+            "Grox Turret",
+            "Backdrop_GroB_Turret"
+        ]
+    ],
+    "ci_old_gun": [
+        [
+            "Religious Turret",
+            "Backdrop_Cultural_Turret"
+        ]
+    ],
+    "ci_old_gun_destroyed": [
+        [
+            "Broken Religious Turret",
+            "Backdrop_Cultural_Turret"
+        ]
+    ],
+    "ci_shrine_citywalls_large": [
+        [
+            "Religious Large",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_shrine_citywalls_small": [
+        [
+            "Religious",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "ci_shrine_citywalls_small_seaport_docks": [
+        [
+            "Religious Docks",
+            "Backdrop_Cultural_Docks"
+        ]
+    ],
+    "ci_space_citywalls_large_01_seaport_docks": [
+        [
+            "Colony Docks",
+            "Backdrop_Colony_Docks"
+        ]
+    ],
+    "ci_space_gun": [
+        [
+            "Colony Turret",
+            "Backdrop_Colony_Turret"
+        ]
+    ],
+    "ci_space_gun_destroyed": [
+        [
+            "Broken Colony Turret",
+            "Backdrop_Colony_Turret"
+        ]
+    ],
+    "Colony_Walls": [
+        [
+            "Colony",
+            "Backdrop_Colony_Walls"
+        ]
+    ],
+    "SG_GroB_Walls": [
+        [
+            "Grox",
+            "Backdrop_GroB_Walls"
+        ]
+    ]
+}

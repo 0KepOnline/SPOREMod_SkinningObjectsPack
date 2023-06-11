@@ -1,0 +1,26 @@
+{
+    "Castle": [
+        [
+            "Military",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "Diplo": [
+        [
+            "Economic",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "Shrine": [
+        [
+            "Religious",
+            "Backdrop_City_Walls"
+        ]
+    ],
+    "SpaceColony": [
+        [
+            "Colony",
+            "Backdrop_Colony_Walls"
+        ]
+    ]
+}

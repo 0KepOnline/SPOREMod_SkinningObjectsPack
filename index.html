@@ -1,0 +1,420 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>0KepOnline's Skinning Objects Pack</title>
+	<meta name="description" content="This is a Spore mod which allows you to use a lot of different objects in your adventures. All the adventures made with this mod are share-safe!">
+	
+	<meta name="robots" content="index,follow">
+	<meta http-equiv="content-language" content="en">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:site_name" content="ScenarioPlanet / 0KepOnline">
+	<meta property="og:title" content="0KepOnline's Skinning Objects Pack">
+	<meta property="og:description" content="This is a Spore mod which allows you to use a lot of different objects in your adventures. All the adventures made with this mod are share-safe!">
+	<meta property="og:determiner" content="the">
+	<meta property="og:url" content="https://scenariopla.net/objectspack/">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://scenariopla.net/objectspack/opengraph.png">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:image:alt" content="Skinning Objects Pack">
+	<meta property="og:image:width" content="1275">
+	<meta property="og:image:height" content="750">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="theme-color" content="#000000">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&display=swap" as="style">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&display=swap">
+	
+	<link rel="stylesheet" href="card/style.css">
+	<link rel="stylesheet" href="download.css">
+	
+	<link rel="icon" href="favicon_16x16.png" sizes="16x16" type="image/png">
+	<link rel="icon" href="favicon_32x32.png" sizes="32x32" type="image/png">
+	<link rel="icon" href="favicon_48x48.png" sizes="48x48" type="image/png">
+	<link rel="shortcut icon" href="favicon.ico" type="imagex-icon">
+	<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180" type="image/png">
+	<style>
+
+		html, body {
+			background-color: rgba(0,0,0,1);
+			color: rgba(255,255,255,1);
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			
+			font-family: "Comfortaa", cursive;
+			font-size: 2vh;
+			text-shadow: rgba(128,128,128,1) 0 0 128px;
+		}
+		
+		.decorative {
+			user-select: none;
+			-webkit-user-select: none;
+			-webkit-touch-callout: none;
+			pointer-events: none;
+		}
+
+		a:link, a:visited, a:hover {
+		   color: rgba(255,255,255,1);
+		}
+
+		a:active {
+			color: rgba(220,220,220,1);
+		}
+		
+		a.nounderline, a:link.nounderline, a:visited.nounderline, a:hover.nounderline {
+			text-decoration: none;
+		}
+		
+		.space {
+			height: 12.5vh;
+		}
+		
+		
+		
+		#bg {
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			z-index: -1;
+		}
+		
+		#bgimage {
+			width: 100%;
+			height: auto;
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			object-fit: cover;
+		}
+		
+		
+		
+		#content {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: calc(100% - 128px);
+			padding: 64px;
+			z-index: 1;
+		}
+		
+		div.title, div.gallery, div.demo, div.download {
+			display: flex;
+			margin: auto;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: center;
+			grid-gap: 64px;
+		}
+		
+		.centered {
+			text-align: center;
+		}
+		
+		.left {
+			text-align: left;
+		}
+		
+		.right {
+			text-align: right;
+		}
+		
+		#logo {
+			width: 50%;
+		}
+		
+		#about {
+			font-size: 2vh;
+			border-top: 2px solid rgba(255,255,255,1);
+			border-bottom: 2px solid rgba(255,255,255,1);
+			padding: calc(1vh + 32px);
+		}
+		
+		.attention {
+			color: rgba(255,223,0,1);
+			font-size: 3vh;
+			font-weight: 700;
+		}
+		
+		.warning {
+			color: rgba(255,0,0,1);
+			font-size: 3vh;
+			font-weight: 700;
+		}
+		
+		.description {
+			font-size: 1.75vh;
+		}
+		
+		.caption {
+			font-size: 1.5vh;
+		}
+		
+		.card-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			grid-gap: 10px;
+		}
+		
+		.nowrap {
+			flex-wrap: nowrap;
+		}
+		
+		p.pack {
+			flex-basis: 300px;
+			flex-grow: 1;
+			max-width: fit-content;
+		}
+		
+		.demoimg {
+			border: 1px solid rgba(255,255,0,1);
+			box-shadow: rgba(255,255,0,1) 0 0 5px;
+		}
+		
+		img.ctgicon {
+			width: 2.68vh;
+		}
+		
+		
+		
+		/* Gallery */
+		div.gallery {
+			padding: 64px;
+		}
+		
+		div.item {
+			text-align: center;
+		}
+		
+		div.item img {
+			width: 32vh;
+			height: 20vh;
+			border-radius: 1vh;
+			box-shadow: rgba(32,32,32,1) 0 0 48px;
+			display: block;
+		}
+		
+		div.item span {
+			font-size: 2vh;
+		}
+		
+		div.item .author {
+			font-size: 1vh;
+		}
+		
+		div.double > div.item:first-child {
+			padding-bottom: calc(64px - 2vh);
+		}
+		
+		div.pack {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: center;
+			grid-gap: 64px;
+			flex-basis: calc(64vh + 64px);
+			flex-grow: 1;
+			max-width: fit-content;
+		}
+		
+		
+		
+		div.download {
+			text-align: center;
+			font-size: 5vh;
+			padding: 32px;
+			font-weight: 700;
+			color: rgba(124,186,242);
+		}
+		
+	</style>
+</head>
+<body>
+	<div id="bg" class="decorative">
+		<picture>
+			<source media="(max-width: 1280px)" srcset="bg_darker-hd.jpg" />
+			<source media="(max-width: 1920px)" srcset="bg_darker-fullhd.jpg" />
+			<img id="bgimage" src="bg_darker.jpg" />
+		</picture>
+	</div>
+	<div id="content">
+		<div class="title">
+			<picture class="centered">
+				<source media="(max-width: 1200px)" srcset="logo-600.png" />
+				<source media="(max-width: 1600px)" srcset="logo-800.png" />
+				<source media="(max-width: 2560px)" srcset="logo-hd.png" />
+				<source media="(max-width: 3840px)" srcset="logo-fullhd.png" />
+				<img id="logo" class="decorative" src="logo.png" />
+			</picture>
+		<p id="about" class="centered">
+			<span class="centered">
+				[ <a href="https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack">GitHub</a> ]
+			</span>
+			<span class="centered">
+				[ <a href="#download">Download</a> ]
+			</span>
+			<span class="centered">
+				[ <a href="http://www.spore.com/view/myspore/0KepOnline">Author on Spore.com</a> ]
+			</span>
+			<br/><br class="decorative"/>
+			0KepOnline's Skinning Objects Pack is a Spore mod which allows you to use a lot of different objects in your adventures.
+		</p>
+		</div>
+		<p class="centered attention">
+			All the adventures made with this mod are share-safe!
+		</p>
+		<p class="centered description">
+			This means you can easily share adventures made with Skinning Objects Pack with other players and they won't need to install the mod to play.<br />
+			You can even publish adventures you made with it to the official <a class="description" href="http://www.spore.com/sporepedia">Sporepedia™</a>!
+		</p>
+		<div class="space"></div>
+		<p class="centered caption">Here are some of the objects you can use in your adventures with it:</p>
+		<div class="card-container">
+			<div class="nowrap"><div class="card">
+				<div style="background: url(Backdrop_City_Walls.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/ci_diplo_citywalls_large.png" />
+				<span class="card-name"><b>Economic Large</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Cities.png" /><span class="decorative">&emsp;&ensp;</span>Cities</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_Placeholders.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/genericmeat_03.png" />
+				<span class="card-name"><b>genericmeat_03</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Placeholders.png" /><span class="decorative">&emsp;&ensp;</span>Placeholders</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_Tribe_Tools.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/foodpile_egg_04.png" />
+				<span class="card-name"><b>Pile Egg Large</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Food.png" /><span class="decorative">&emsp;&ensp;</span>Food</span>
+			</div></div>
+			<div class="nowrap"><div class="card">
+				<div style="background: url(Backdrop_UFO.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/sg_steve.png" />
+				<span class="card-name"><b>Steve</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Other.png" /><span class="decorative">&emsp;&ensp;</span>Other</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_Sea_Monster.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/trg_seamon.png" />
+				<span class="card-name"><b>Sea Monster</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Tribes.png" /><span class="decorative">&emsp;&ensp;</span>Tribes</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_FixedObjects.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/ci_nuclearRubble.png" />
+				<span class="card-name"><b>Nuclear Rubble</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Other.png" /><span class="decorative">&emsp;&ensp;</span>Other</span>
+			</div></div>
+			<div class="nowrap"><div class="card">
+				<div style="background: url(Backdrop_Planet.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/ImpostorTemplate.png" />
+				<span class="card-name"><b>Template Planet</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Planet_Assets.png" /><span class="decorative">&emsp;&ensp;</span>Planet Assets</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_Colony_Docks.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/ci_space_citywalls_large_01_seaport_docks.png" />
+				<span class="card-name"><b>Colony Docks</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Cities.png" /><span class="decorative">&emsp;&ensp;</span>Cities</span>
+			</div>
+			<div class="card">
+				<div style="background: url(Backdrop_VehicleLand_Colony.png)" class="card-backdrop decorative"></div>
+				<img class="card-frame decorative" src="card.png" draggable="false" />
+				<img class="card-thumb" src="items/ve_editor_landbase.png" />
+				<span class="card-name"><b>Land Vehicle Creator Base</b></span>
+				<span class="card-author"><img class="card-icon" src="FeedListIcon_Editor_Rigblocks.png" /><span class="decorative">&emsp;&ensp;</span>Creators</span>
+			</div></div>
+		</div>
+		<div class="space"></div>
+		<div class="gallery">
+			<p class="right description pack">
+				Object categories are:<br/><br/>
+					Tribal Tools <img class="ctgicon" src="FeedListIcon_Tribe_Tools.png" /> <br/>
+					Tribes <img class="ctgicon" src="FeedListIcon_Tribes.png" /> <br/>
+					City Walls <img class="ctgicon" src="FeedListIcon_City_Walls.png" /> <br/>
+					Cities <img class="ctgicon" src="FeedListIcon_Cities.png" /> <br/>
+					Planet Assets <img class="ctgicon" src="FeedListIcon_Planet_Assets.png" /> <br/>
+					Food <img class="ctgicon" src="FeedListIcon_Food.png" /> <br/>
+					Creators <img class="ctgicon" src="FeedListIcon_Editor_Rigblocks.png" /> <br/>
+					Placeholders <img class="ctgicon" src="FeedListIcon_Placeholders.png" /> <br/>
+					Other <img class="ctgicon" src="FeedListIcon_Other.png" /> <br/><br/>
+				You can use these objects in different desings and places.<br/>
+				Here you can see nice ideas for your adventures!
+			</p>
+			<div class="pack">
+				<div class="double nowrap">
+					<div class="item"><a class="nounderline" href="CreatorGalaxy-GroxColony.png">
+						<img src="CreatorGalaxy-GroxColony_16x10.png" />
+						<span>Grox Colony</span><span class="decorative">&nbsp;</span></a>
+						<span class="author">by <a class="author" href="http://www.spore.com/view/myspore/CreatorGalaxy">CreatorGalaxy</a></span>
+					</a></div>
+					<div class="item"><a class="nounderline" href="Liskomato-Ruins.png">
+						<img src="Liskomato-Ruins_16x10.png" />
+						<span>Ruins</span><span class="decorative">&nbsp;</span></a>
+						<span class="author">by <a class="author" href="http://www.spore.com/view/myspore/Liskomato">Liskomato</a></span>
+					</a></div>
+				</div>
+				<div class="double nowrap">
+					<div class="item"><a class="nounderline" href="I_am_THEdragon-Arena.png">
+						<img src="I_am_THEdragon-Arena_16x10.png" />
+						<span>Arena</span><span class="decorative">&nbsp;</span></a>
+						<span class="author">by <a class="author" href="http://www.spore.com/view/myspore/I_am_THEdragon">I_am_THEdragon</a></span>
+					</a></div>
+					<div class="item"><a class="nounderline" href="Dashik42-Nest_16x10_ai2x.png">
+						<img src="Dashik42-Nest_16x10_ai2x.png" />
+						<span>Nest</span><span class="decorative">&nbsp;</span></a>
+						<span class="author">by <a class="author" href="http://www.spore.com/view/myspore/Dashik42">Dashik42</a></span>
+					</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="space"></div>
+		<div class="demo">
+			<a href="http://www.spore.com/sporepedia#qry=ast-501106511038">
+				<img class="demoimg" src="https://static.spore.com/static/image/501/106/511/501106511038_lrg.png" />
+			</a>
+			<p class="left description pack">
+				<span class="attention">DEMO ADVENTURE IS OUT!</span><br/><br class="decorative"/>
+				In this adventure you can see some of the simple drafts made with the mod objects.<br/>
+				Play it without the mod installed to see how it works:<br/>
+				<a href="http://www.spore.com/sporepedia#qry=ast-501106511038">http://www.spore.com/sporepedia#qry=ast-501106511038</a>
+			</p>
+		</div>
+		<div class="space"></div><a id="download"></a>
+		<p class="centered warning">WARNING!</p><p class="centered">
+			0KepOnline's Skinning Objects Pack needs the user to have
+				<a href="http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/">Spore ModAPI</a>
+			and
+				<a href="https://github.com/Zarklord/UniversalPropertyEnhancer/releases/latest">Universal Property Enhancer</a>
+			installed.
+		</p>
+		<div class="download">
+			<a href="https://github.com/0KepOnline/SPOREMod_SkinningObjectsPack/releases/download/v1.2/0KepOnlineObjectsPack_v1.2.sporemod" class="downloadbutton" draggable="false">
+				<div>
+					<img src="https://scenariopla.net/objectspack/download-2x.png" draggable="false" />
+				</div>
+			</a>
+			<p>
+				Download the mod!<br/>
+				<span class="caption">(version: v1.3, last update: Mar 1, 2023)</span>
+			</p>
+		</div>
+		<div class="space"></div>
+		<p class="centered caption">
+			0KepOnline's Skinning Objects Pack, Spore ModAPI and Universal Property Enhancer are not associated with Electronic Arts / Maxis.<br/>
+			All the trademarks belong to their respective owners.
+		</p>
+	</div>
+</body>
+</html>

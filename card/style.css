@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Varta:wght@500;700&display=swap');
+
+.card {
+	position: relative;
+	width: 143px;
+	height: 183px;
+	font-family: "Varta";
+	display: inline-block;
+}
+
+.card-backdrop {
+	position: absolute;
+	top: 5px;
+	left: 8px;
+	width: 128px;
+	height: 174px;
+	border-radius: 5px;
+	z-index: 2;
+}
+
+.card-frame, .card-thumb, .card-icon {
+	position: absolute;
+	z-index: 3;
+}
+
+.card-thumb {
+	width: 120px;
+	height: 115px;
+	bottom: 13px;
+	left: 12px;
+}
+
+.card-name, .card-author {
+	display: inline-block;
+	position: absolute;
+	top: 9px;
+	width: 118px;
+	left: 12px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-shadow: 1px 1px 3px black !important;
+	text-align: center;
+	font-size: 13px;
+	z-index: 4;
+}
+
+.card-author {
+	top: 27px;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.card-icon {
+	width: 16px;
+	height: 16px;
+}
+
+.card-icon {
+	width: 16px;
+	height: 16px;
+}

@@ -1,0 +1,206 @@
+{
+    "trg-suirhorn1": [
+        [
+            "Trap Base",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg-suirhorn2": [
+        [
+            "Trap Bowl",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg-suirhorn3": [
+        [
+            "Trap Totem",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_firebomb": [
+        [
+            "Fire Bomb",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_firework_launcher": [
+        [
+            "Firework Launcher",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_fishconch": [
+        [
+            "Conch",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_sacrifice_altar1": [
+        [
+            "Trap",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "trg_sacrifice_altar3": [
+        [
+            "Trap With Totem",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "trg_scoreSign_scr0": [
+        [
+            "Score Sign 10",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr1": [
+        [
+            "Score Sign 1",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr2": [
+        [
+            "Score Sign 2",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr3": [
+        [
+            "Score Sign 3",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr4": [
+        [
+            "Score Sign 4",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr5": [
+        [
+            "Score Sign 5",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr6": [
+        [
+            "Score Sign 6",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr7": [
+        [
+            "Score Sign 7",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr8": [
+        [
+            "Score Sign 8",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_scoreSign_scr9": [
+        [
+            "Score Sign 9",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_seamon": [
+        [
+            "Sea Monster",
+            "Backdrop_Sea_Monster"
+        ]
+    ],
+    "trg_totem_foodmat1": [
+        [
+            "Food Mat Simple",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_totem_foodmat2": [
+        [
+            "Food Mat Improved",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_totem_foodmat3": [
+        [
+            "Food Mat Enhanced",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_totem_pole1": [
+        [
+            "Altar Simple",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_totem_pole2": [
+        [
+            "Altar Improved",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "tt_chieftain_staff_fish": [
+        [
+            "Chieftain Staff With Fish",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "tt_chieftain_staff_seaweed": [
+        [
+            "Chieftain Staff With Seaweed",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "tt_civ_firepit_home_01": [
+        [
+            "Tribe Small",
+            "Backdrop_Tribes"
+        ]
+    ],
+    "tt_civ_firepit_home_02": [
+        [
+            "Tribe Medium",
+            "Backdrop_Tribes"
+        ]
+    ],
+    "tt_civ_firepit_home_03": [
+        [
+            "Tribe Large",
+            "Backdrop_Tribes"
+        ]
+    ],
+    "tt_eggpen_none": [
+        [
+            "Egg Pen Empty",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "tt_pigpen": [
+        [
+            "Pig Pen",
+            "Backdrop_Tribes"
+        ]
+    ],
+    "tt_Shed_Destroyed": [
+        [
+            "Hut Destroyed",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "tt_totempole_combat": [
+        [
+            "Totem Pole Combat",
+            "Backdrop_Totem_Pole"
+        ]
+    ],
+    "tt_totempole_social": [
+        [
+            "Totem Pole Social",
+            "Backdrop_Totem_Pole"
+        ]
+    ]
+}

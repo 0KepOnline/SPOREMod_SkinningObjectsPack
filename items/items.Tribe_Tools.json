@@ -1,0 +1,56 @@
+{
+    "Attack1": [
+        [
+            "Flaming Torches",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Attack2": [
+        [
+            "Stone Axes",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Attack3": [
+        [
+            "Throwing Spears",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Fish": [
+        [
+            "Fishing Spears",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Gather": [
+        [
+            "Gathering Canes",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Heal": [
+        [
+            "Healing Rods",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Social1": [
+        [
+            "Wooden Horns",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Social2": [
+        [
+            "Maracas",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "Social3": [
+        [
+            "Didgeridoos",
+            "Backdrop_Tribe_Tools"
+        ]
+    ]
+}

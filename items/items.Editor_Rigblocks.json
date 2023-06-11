@@ -1,0 +1,224 @@
+{
+    "adventure_acc_background": [
+        [
+            "Captain Outfitter Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "adventure_acc_dais": [
+        [
+            "Captain Outfitter Base",
+            "Backdrop_CreatureAdventure"
+        ]
+    ],
+    "be_editor_background_night": [
+        [
+            "Building Creator Night Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "BE_editor_base_low": [
+        [
+            "Building Creator Base Low",
+            "Backdrop_Building_House"
+        ]
+    ],
+    "be_editor_base_ui_style": [
+        [
+            "Building Creator Base High",
+            "Backdrop_Building_CityHall"
+        ]
+    ],
+    "be_editor_base_ui_style_background": [
+        [
+            "Building Creator Day Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ce_background_UFO": [
+        [
+            "Creature Creator UFO Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ce_beach_ground_plane-doom": [
+        [
+            "Creature Creator Doom Base",
+            "Backdrop_Doom"
+        ]
+    ],
+    "ce_beach_ground_plane-doom_background": [
+        [
+            "Creature Creator Doom Background",
+            "Backdrop_Doom"
+        ]
+    ],
+    "ce_dias_medium": [
+        [
+            "Creature Creator Base",
+            "Backdrop_CreatureAnimal"
+        ]
+    ],
+    "ce_editor_background_sporepedia": [
+        [
+            "Creature View Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ce_static_background": [
+        [
+            "Creature Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ce_test_mode_terrain": [
+        [
+            "Creature Editor Test Base",
+            "Backdrop_CreatureAnimal"
+        ]
+    ],
+    "civ_acc_background": [
+        [
+            "Civilization Outfitter Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "civ_acc_dais": [
+        [
+            "Civilization Outfitter Base",
+            "Backdrop_CreatureCiv"
+        ]
+    ],
+    "cl_ce_editor_background": [
+        [
+            "Early Creature Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_ce_editor_dais": [
+        [
+            "Early Creature Creator Base",
+            "Backdrop_CreatureAnimal_Early"
+        ]
+    ],
+    "cl_editor_base": [
+        [
+            "Cell Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_editor_base_level0": [
+        [
+            "Cell Editor Base Level 1",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_editor_base_level1": [
+        [
+            "Cell Editor Base Level 2",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_editor_base_level2": [
+        [
+            "Cell Editor Base Level 3",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_editor_base_level3": [
+        [
+            "Cell Editor Base Level 4",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "cl_editor_base_level4": [
+        [
+            "Cell Editor Base Level 5",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "fe_editor_background_sporepedia": [
+        [
+            "Flora View Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "PE_editor_planet_background": [
+        [
+            "Planet View Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "space_acc_background": [
+        [
+            "Space Outfitter Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "space_acc_dais": [
+        [
+            "Space Outfitter Base",
+            "Backdrop_CreatureSpace"
+        ]
+    ],
+    "tri_acc_background": [
+        [
+            "Tribal Outfitter Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "tri_acc_pedastal": [
+        [
+            "Tribal Outfitter Base",
+            "Backdrop_CreatureTribe"
+        ]
+    ],
+    "ve_editor_airbase": [
+        [
+            "Air Vehicle Creator Base",
+            "Backdrop_VehicleAir_Colony"
+        ]
+    ],
+    "ve_editor_airbase_background": [
+        [
+            "Air Vehicle Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ve_editor_base": [
+        [
+            "Vehicle Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ve_editor_landbase": [
+        [
+            "Land Vehicle Creator Base",
+            "Backdrop_VehicleLand_Colony"
+        ]
+    ],
+    "ve_editor_landbase_background": [
+        [
+            "Land Vehicle Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ve_editor_ufobase": [
+        [
+            "Spaceship Creator Base",
+            "Backdrop_UFO"
+        ]
+    ],
+    "ve_editor_ufobase_background": [
+        [
+            "Spaceship Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ],
+    "ve_editor_waterbase": [
+        [
+            "Water Vehicle Creator Background",
+            "Backdrop_Editor_Backgrounds"
+        ]
+    ]
+}

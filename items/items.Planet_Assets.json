@@ -1,0 +1,32 @@
+{
+    "generic_SpaceIceRock": [
+        [
+            "Ice Rock",
+            "Backdrop_Space_Rock"
+        ]
+    ],
+    "generic_SpaceLavaRock": [
+        [
+            "Lava Rock",
+            "Backdrop_Space_Rock"
+        ]
+    ],
+    "generic_SpaceRock": [
+        [
+            "Regular Rock",
+            "Backdrop_Space_Rock"
+        ]
+    ],
+    "ImpostorTemplate": [
+        [
+            "Template Planet",
+            "Backdrop_Planet"
+        ]
+    ],
+    "SquareArrow": [
+        [
+            "Square Arrow",
+            "Backdrop_Square_Arrow"
+        ]
+    ]
+}

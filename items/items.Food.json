@@ -1,0 +1,224 @@
+{
+    "foodpile_egg_01": [
+        [
+            "Egg",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "foodpile_egg_02": [
+        [
+            "Pile Egg Small",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_egg_03": [
+        [
+            "Pile Egg Medium",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_egg_04": [
+        [
+            "Pile Egg Large",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_egg_05": [
+        [
+            "Pile Egg Huge",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fish_01": [
+        [
+            "Fish",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "foodpile_fish_02": [
+        [
+            "Pile Fish Small",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fish_03": [
+        [
+            "Pile Fish Medium",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fish_04": [
+        [
+            "Pile Fish Large",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fruit_01": [
+        [
+            "Fruit",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "foodpile_fruit_02": [
+        [
+            "Pile Fruit Small",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fruit_03": [
+        [
+            "Pile Fruit Medium",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_fruit_04": [
+        [
+            "Pile Fruit Large",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_meat_01": [
+        [
+            "Meat",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "foodpile_meat_02": [
+        [
+            "Pile Meat Small",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_meat_03": [
+        [
+            "Pile Meat Medium",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_meat_04": [
+        [
+            "Pile Meat Large",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_seaweed_01": [
+        [
+            "Seaweed",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "foodpile_seaweed_02": [
+        [
+            "Pile Seaweed Small",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_seaweed_03": [
+        [
+            "Pile Seaweed Medium",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_seaweed_04": [
+        [
+            "Pile Seaweed Large",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "foodpile_seaweed_05": [
+        [
+            "Pile Seaweed Huge",
+            "Backdrop_Tribe_Tools"
+        ]
+    ],
+    "platter_egg_00": [
+        [
+            "Empty Platter",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_egg_01": [
+        [
+            "Egg Platter Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_egg_02": [
+        [
+            "Egg Platter Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_fish_01": [
+        [
+            "Fish Platter Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_fish_02": [
+        [
+            "Fish Platter Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_fruit_01": [
+        [
+            "Fruit Platter Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_fruit_02": [
+        [
+            "Fruit Platter Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_meat_01": [
+        [
+            "Meat Platter Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_meat_02": [
+        [
+            "Meat Platter Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_seaweed_01": [
+        [
+            "Seaweed Platter Small",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_seaweed_02": [
+        [
+            "Seaweed Platter Medium",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "platter_seaweed_03": [
+        [
+            "Seaweed Platter Large",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "StolenFood": [
+        [
+            "Stolen Food",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_babyfeed": [
+        [
+            "Baby Feed",
+            "Backdrop_FixedObjects"
+        ]
+    ],
+    "trg_domesticfeed": [
+        [
+            "Domesticate Bone",
+            "Backdrop_FixedObjects"
+        ]
+    ]
+}
