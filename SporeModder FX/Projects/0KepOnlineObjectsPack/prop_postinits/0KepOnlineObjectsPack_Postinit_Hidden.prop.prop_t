@@ -1,0 +1,9 @@
+# This postinit should be used for children proplists if their parent is a mod item.
+
+string8s postinitList
+	"ep1_radiusarrow POSTINIT-Hidden"
+end
+
+key POSTINIT-Hidden 0KepOnlineObjectsPack_Postinits!POSTINIT-Hidden
+
+key ep1_radiusarrow ScenarioEditorHandles~!ep1_radiusarrow
