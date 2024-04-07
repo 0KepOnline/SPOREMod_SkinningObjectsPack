@@ -1,4 +1,4 @@
-# V1.2: Translated by Liskomato
+# V1.3: Translated by Liskomato
 0x00000000 0KepOnlinen Naamio-objektipaketti
 
 0x00000001 Heimotyökalut
@@ -11,3 +11,4 @@
 0x00000008 Muu
 0x00000009 Heimot
 0x0000000a Ruoka
+0x0000000b Seikkailueditori

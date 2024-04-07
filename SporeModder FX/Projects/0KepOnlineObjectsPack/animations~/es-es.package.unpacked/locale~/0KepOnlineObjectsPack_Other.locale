@@ -1,0 +1,85 @@
+0x00000001 Pedestal de Shamán
+0x00000002 Pedestal Real
+0x00000003 Pedestal Humilde
+0x00000004 Pedestal Futurístico
+0x00000005 Pedestal Glorioso
+0x00000006 Pedestal Militar
+0x00000007 Pedestal Sagrado
+0x00000008 Huevo de Amor
+0x00000009 Huevo de Envidia
+0x0000000a Huevo Sólido
+0x0000000b Huevo Alien
+0x0000000c Huevo Quark
+0x0000000d Huevo Arenoso
+0x0000000e Huevo Atrevido
+0x0000000f Huevo de Amor Eclosionado
+0x00000010 Huevo de Envidia Eclosionado
+0x00000011 Huevo Maravilloso Eclosionado
+0x00000012 Huevo Sólido Eclosionado
+0x00000013 Huevo Feliz Eclosionado
+0x00000014 Huevo Alien Eclosionado
+0x00000015 Huevo Quark Eclosionado
+0x00000016 Huevo Arenoso Eclosionado
+0x00000017 Huevo Épico Eclosionado
+0x00000018 Huevo Atrevido Eclosionado
+0x00000019 Fruta Venenosa
+0x0000001a Fruta Simplificada
+0x0000001b Fruta Podrida
+0x0000001c Super Fruta
+0x0000001d Símbolo Militar
+0x0000001e Símbolo Religiosa
+0x0000001f Símbolo Económico
+0x00000020 Vaso de Apuestas Azules
+0x00000021 Vaso de Apuestas Rojo
+0x00000022 Vaso de Apuestas Amarillo
+0x00000023 Globo de Especias
+0x00000024 Loteria
+0x00000025 Megáfono
+0x00000026 Estatuilla de Saltamontes Tamaraniano
+0x00000027 Escombros Nucleares
+0x00000028 Ojo de Spode
+0x00000029 Trompeta
+0x0000002a Cartel de Protesta
+0x0000002b Cerebro
+0x0000002c Cometa
+0x0000002d Medalla Dinero
+0x0000002e Medalla Libro de cuentos
+0x0000002f Medalla de Terraformación
+0x00000030 Geoda Verde
+0x00000031 Geoda Roja
+0x00000032 Geoda Azul
+0x00000033 Geoda Rosa
+0x00000034 Geoda Naranja
+0x00000035 Geoda Gris
+0x00000036 Geoda Púrpura
+0x00000037 Geoda Verde Azulada
+0x00000038 Geoda Negra
+0x00000039 Rocas de Hoguera
+0x0000003a Steve
+0x0000003b Engranaje Pequeño
+0x0000003c Engranaje Grande
+0x0000003d Buscador
+0x0000003e Grupo de Esqueletos Saqueados
+0x0000003f Esuqleto Saquado
+0x00000040 Tórax de Esqueleto Saqueado
+0x00000041 Columna de Esqueleto Saqueado
+0x00000042 Esqueleto de Pescado Saqueado
+0x00000043 Erizo de Mar
+0x00000044 Materiales de Construcción
+0x00000045 Cápsula de Herramienta Espacial
+0x00000046 Roca en Bloques Pequeña
+0x00000047 Roca en Bloques Mediana
+0x00000048 Roca Redondeada Pequeña
+0x00000049 Roca Redondeada Mediana
+0x0000004a Roca Agujereada Pequeña
+0x0000004b Roca Agujereada Mediana
+0x0000004c Roca Cilíndrica Pequeña
+0x0000004d Roca Cilíndrica Mediana
+0x0000004e Roca Puntiaguda Pequeña
+0x0000004f Roca Puntiaguda Mediana
+0x00000050 Roca de Cristal Pequeña
+0x00000051 Roca de Cristal Mediana
+
+# Filters
+
+0x10000001 Pedestales

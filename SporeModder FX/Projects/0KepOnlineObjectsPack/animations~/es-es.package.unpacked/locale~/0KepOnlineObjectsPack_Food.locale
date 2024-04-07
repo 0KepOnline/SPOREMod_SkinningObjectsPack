@@ -1,0 +1,37 @@
+0x00000001 Bandeja Vacía
+0x00000002 Alimento de Bebé
+0x00000003 Hueso para Domesticar
+0x00000004 Huevo
+0x00000005 Pila de Huevos Pequeña
+0x00000006 Pila de Huevos Mediana
+0x00000007 Pila de Huevos Grande
+0x00000008 Pila de Huevos Enorme
+0x00000009 Pescado
+0x0000000a Pila de Pescado Pequeña
+0x0000000b Pila de Pescado Mediana
+0x0000000c Pila de Pescado Grande
+0x0000000d Fruta
+0x0000000e Pila de Fruta Pequeña
+0x0000000f Pila de Fruta Mediana
+0x00000010 Pila de Fruta Grande
+0x00000011 Carne
+0x00000012 Pila de Carne Pequeña
+0x00000013 Pila de Carne Mediana
+0x00000014 Pila de Carne Grande
+0x00000015 Algas
+0x00000016 Pila de Algas Pequeña
+0x00000017 Pila de Algas Mediana
+0x00000018 Pila de Algas Grande
+0x00000019 Pila de Algas Enorme
+0x0000001a Bandeja de Huevos Pequeña
+0x0000001b Bandeja de Huevos Mediana
+0x0000001c Bandeja de Pescado Pequeña
+0x0000001d Bandeja de Pescado Mediana
+0x0000001e Bandeja de Fruta Pequeña
+0x0000001f Bandeja de Fruta Mediana
+0x00000020 Bandeja de Carne Pequeña
+0x00000021 Bandeja de Carne Mediana
+0x00000022 Bandeja de Algas Pequeña
+0x00000023 Bandeja de Algas Mediana
+0x00000024 Bandeja de Algas Grande
+0x00000025 Comida Robada

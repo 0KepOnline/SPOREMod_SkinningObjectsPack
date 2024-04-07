@@ -5,3 +5,4 @@ generic_SpaceIceRock~	0x9faed750
 Materials~	0xbc160cba
 StolenFood~	0x57dc9cd4
 ToolCapsule~	0x061300dc
+ScenarioEditorHandles~	0x079a8ee7
