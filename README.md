@@ -7,7 +7,7 @@ This mod adds a lot of objects to the Adventure Editor. You can use them on game
 
 All the adventures made with it are share-safe.
 
-**![IMPORTANT!](https://img.shields.io/static/v1?label=&message=IMPORTANT!&color=red) This mod needs [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer) installed.**
+**![IMPORTANT!](https://img.shields.io/static/v1?label=&message=IMPORTANT!&color=red) This mod requires [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer) to be installed.**
 
 ![](OtherTab.png)
 
@@ -18,5 +18,5 @@ All the adventures made with it are share-safe.
  * [A-xesey](https://github.com/A-xesey)	(creating some stub images)
 
 Special thanks to:
- * [emd4600](https://github.com/emd4600)	(creating [SporeModder FX](https://github.com/emd4600/SporeModder-FX) and [SporeMod API](https://github.com/emd4600/Spore-ModAPI))
+ * [emd4600](https://github.com/emd4600)	(creating [SporeModder FX](https://github.com/emd4600/SporeModder-FX) and [SporeMod API](https://github.com/emd4600/Spore-ModAPI), adding Spanish localization)
  * [Zarklord](https://github.com/Zarklord)	(creating [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer))
