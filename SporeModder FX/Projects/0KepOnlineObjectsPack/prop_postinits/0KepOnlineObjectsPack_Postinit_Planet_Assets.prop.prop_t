@@ -8,17 +8,17 @@ end
 
 
 
-key generic_SpaceIceRock rocks~!generic_SpaceIceRock~
+key generic_SpaceIceRock planet_asset~!generic_SpaceIceRock~
 key POSTINIT-Planet_Assets-generic_SpaceIceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceIceRock
 
-key generic_SpaceLavaRock rocks~!generic_SpaceLavaRock~
+key generic_SpaceLavaRock planet_asset~!generic_SpaceLavaRock~
 key POSTINIT-Planet_Assets-generic_SpaceLavaRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceLavaRock
 
-key generic_SpaceRock rocks~!generic_SpaceRock~
+key generic_SpaceRock planet_asset~!generic_SpaceRock~
 key POSTINIT-Planet_Assets-generic_SpaceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceRock
 
-key ImpostorTemplate rocks~!ImpostorTemplate
+key ImpostorTemplate planet_asset~!ImpostorTemplate
 key POSTINIT-Planet_Assets-ImpostorTemplate 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-ImpostorTemplate
 
-key SquareArrow rocks~!SquareArrow~
+key SquareArrow planet_asset~!SquareArrow~
 key POSTINIT-Planet_Assets-SquareArrow 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-SquareArrow
