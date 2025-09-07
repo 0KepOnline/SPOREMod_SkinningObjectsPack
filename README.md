@@ -18,5 +18,5 @@ All the adventures made with it are share-safe.
  * [A-xesey](https://github.com/A-xesey)	(creating some stub images)
 
 Special thanks to:
- * [emd4600](https://github.com/emd4600)	(creating [SporeModder FX](https://github.com/emd4600/SporeModder-FX) and [SporeMod API](https://github.com/emd4600/Spore-ModAPI), adding Spanish localization)
+ * [emd4600](https://github.com/emd4600)	(creating [SporeModder FX](https://github.com/emd4600/SporeModder-FX) and [Spore ModAPI](https://github.com/emd4600/Spore-ModAPI), adding Spanish localization)
  * [Zarklord](https://github.com/Zarklord)	(creating [Universal Property Enhancer](https://github.com/Zarklord/UniversalPropertyEnhancer))
