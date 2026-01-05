@@ -65,7 +65,7 @@ string8s postinitList
 	"CRG_Skeleton_Destructed_03 POSTINIT-Other-CRG_Skeleton_Destructed_03"
 	"CRG_Skeleton_Destructed_04 POSTINIT-Other-CRG_Skeleton_Destructed_04"
 	"CG_poison_L1 POSTINIT-Other-CG_poison_L1"
-	"Materials POSTINIT-Other-Materials"
+	"transition_hutpile POSTINIT-Other-transition_hutpile"
 	"ToolCapsule POSTINIT-Other-ToolCapsule"
 	"cr_blocky_small POSTINIT-Other-cr_blocky_small"
 	"cr_blocky_medium POSTINIT-Other-cr_blocky_medium"
@@ -282,8 +282,8 @@ key POSTINIT-Other-CRG_Skeleton_Destructed_04 0KepOnlineObjectsPack_Postinits!PO
 key CG_poison_L1 CG_poison_L1
 key POSTINIT-Other-CG_poison_L1 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-CG_poison_L1
 
-key Materials Materials~
-key POSTINIT-Other-Materials 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-Materials
+key transition_hutpile transition_hutpile
+key POSTINIT-Other-transition_hutpile 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-transition_hutpile
 
 key ToolCapsule ToolCapsule~
 key POSTINIT-Other-ToolCapsule 0KepOnlineObjectsPack_Postinits!POSTINIT-Other-ToolCapsule

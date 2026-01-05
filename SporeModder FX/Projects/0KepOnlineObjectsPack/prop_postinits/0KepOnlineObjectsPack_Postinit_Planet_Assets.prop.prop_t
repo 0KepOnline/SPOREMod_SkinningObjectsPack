@@ -1,24 +1,24 @@
 string8s postinitList
-	"generic_SpaceIceRock POSTINIT-Planet_Assets-generic_SpaceIceRock"
-	"generic_SpaceLavaRock POSTINIT-Planet_Assets-generic_SpaceLavaRock"
-	"generic_SpaceRock POSTINIT-Planet_Assets-generic_SpaceRock"
+	"genericspace01_icerock POSTINIT-Planet_Assets-genericspace01_icerock"
+	"genericspace01_lavarock POSTINIT-Planet_Assets-genericspace01_lavarock"
+	"genericspace01_tinyrock POSTINIT-Planet_Assets-genericspace01_tinyrock"
 	"ImpostorTemplate POSTINIT-Planet_Assets-ImpostorTemplate"
-	"SquareArrow POSTINIT-Planet_Assets-SquareArrow"
+	"ui_planet_brush_outline POSTINIT-Planet_Assets-ui_planet_brush_outline"
 end
 
 
 
-key generic_SpaceIceRock planet_asset~!generic_SpaceIceRock~
-key POSTINIT-Planet_Assets-generic_SpaceIceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceIceRock
+key genericspace01_icerock planet_asset~!genericspace01_icerock
+key POSTINIT-Planet_Assets-genericspace01_icerock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-genericspace01_icerock
 
-key generic_SpaceLavaRock planet_asset~!generic_SpaceLavaRock~
-key POSTINIT-Planet_Assets-generic_SpaceLavaRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceLavaRock
+key genericspace01_lavarock planet_asset~!genericspace01_lavarock
+key POSTINIT-Planet_Assets-genericspace01_lavarock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-genericspace01_lavarock
 
-key generic_SpaceRock planet_asset~!generic_SpaceRock~
-key POSTINIT-Planet_Assets-generic_SpaceRock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-generic_SpaceRock
+key genericspace01_tinyrock planet_asset~!genericspace01_tinyrock
+key POSTINIT-Planet_Assets-genericspace01_tinyrock 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-genericspace01_tinyrock
 
 key ImpostorTemplate planet_asset~!ImpostorTemplate
 key POSTINIT-Planet_Assets-ImpostorTemplate 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-ImpostorTemplate
 
-key SquareArrow planet_asset~!SquareArrow~
-key POSTINIT-Planet_Assets-SquareArrow 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-SquareArrow
+key ui_planet_brush_outline planet_asset~!ui_planet_brush_outline
+key POSTINIT-Planet_Assets-ui_planet_brush_outline 0KepOnlineObjectsPack_Postinits!POSTINIT-Planet_Assets-ui_planet_brush_outline
